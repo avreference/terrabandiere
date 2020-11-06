@@ -52,5 +52,5 @@ This readme.md file is a work-in-progress. Last update 06.11.2020
 | ![Switzerland](https://github.com/avreference/terrabandiere/blob/main/europe/switzerland.png)  | Switzerland       | Europe        |
 | ![Turkey](https://github.com/avreference/terrabandiere/blob/main/europe/turkey.png)  | Turkey       | Europe        |
 | ![Ukraine](https://github.com/avreference/terrabandiere/blob/main/europe/ukraine.png)  | Ukraine       | Europe        |
-| ![United Kingdom](https://github.com/avreference/terrabandiere/blob/main/europe/united kingdom.png)  | United Kingdom       | Europe        |
+| ![United Kingdom](https://github.com/avreference/terrabandiere/blob/main/europe/unitedkingdom.png)  | United Kingdom       | Europe        |
 | ![Vatican City](https://github.com/avreference/terrabandiere/blob/main/europe/vaticancity.png)  | Vatican City       | Europe        |
