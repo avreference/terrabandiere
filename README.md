@@ -29,8 +29,15 @@ This readme.md file is a work-in-progress. Last update 06.11.2020
 | ![Croatia](https://github.com/avreference/terrabandiere/blob/main/europe/croatia.png)  | Croatia       | Europe        |
 | ![Cyprus](https://github.com/avreference/terrabandiere/blob/main/europe/cyprus.png)  | Cyprus       | Europe        |
 | ![Czech Republic](https://github.com/avreference/terrabandiere/blob/main/europe/czechrepublic.png)  | Czech Republic       | Europe        |
+| ![Democratic Republic of the Congo](https://github.com/avreference/terrabandiere/blob/main/africa/democraticrepublicofthecongo.png)  | Democratic Republic of the Congo       | Africa        |
 | ![Denmark](https://github.com/avreference/terrabandiere/blob/main/europe/denmark.png)  | Denmark       | Europe        |
+| ![Djibouti](https://github.com/avreference/terrabandiere/blob/main/africa/djibouti.png)  | Djibouti       | Africa        |
+| ![Egypt](https://github.com/avreference/terrabandiere/blob/main/africa/egypt.png)  | Egypt       | Africa        |
+| ![Equatorial Guinea](https://github.com/avreference/terrabandiere/blob/main/africa/equatorialguinea.png)  | Equatorial Guinea       | Africa        |
+| ![Eritrea](https://github.com/avreference/terrabandiere/blob/main/africa/eritrea.png)  | Eritrea       | Africa        |
 | ![Estonia](https://github.com/avreference/terrabandiere/blob/main/europe/estonia.png)  | Estonia       | Europe        |
+| ![Eswatini](https://github.com/avreference/terrabandiere/blob/main/africa/eswatini.png)  | Eswatini       | Africa        |
+| ![Ethiopia](https://github.com/avreference/terrabandiere/blob/main/africa/ethiopia.png)  | Ethiopia       | Africa        |
 | ![Finland](https://github.com/avreference/terrabandiere/blob/main/europe/finland.png)  | Finland       | Europe        |
 | ![France](https://github.com/avreference/terrabandiere/blob/main/europe/france.png)  | France       | Europe        |
 | ![Georgia](https://github.com/avreference/terrabandiere/blob/main/europe/georgia.png)  | Georgia       | Europe        |
