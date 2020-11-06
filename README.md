@@ -40,15 +40,25 @@ This readme.md file is a work-in-progress. Last update 06.11.2020
 | ![Ethiopia](https://github.com/avreference/terrabandiere/blob/main/africa/ethiopia.png)  | Ethiopia       | Africa        |
 | ![Finland](https://github.com/avreference/terrabandiere/blob/main/europe/finland.png)  | Finland       | Europe        |
 | ![France](https://github.com/avreference/terrabandiere/blob/main/europe/france.png)  | France       | Europe        |
+| ![Gabon](https://github.com/avreference/terrabandiere/blob/main/africa/gabon.png)  | Gabon       | Africa        |
+| ![Gambia](https://github.com/avreference/terrabandiere/blob/main/africa/gambia.png)  | Gambia       | Africa        |
 | ![Georgia](https://github.com/avreference/terrabandiere/blob/main/europe/georgia.png)  | Georgia       | Europe        |
 | ![Germany](https://github.com/avreference/terrabandiere/blob/main/europe/germany.png)  | Germany       | Europe        |
+| ![Ghana](https://github.com/avreference/terrabandiere/blob/main/africa/ghana.png)  | Ghana       | Africa        |
 | ![Greece](https://github.com/avreference/terrabandiere/blob/main/europe/greece.png)  | Greece       | Europe        |
+| ![Guinea](https://github.com/avreference/terrabandiere/blob/main/africa/guinea.png)  | Guinea       | Africa        |
+| ![Guinea Bissau](https://github.com/avreference/terrabandiere/blob/main/africa/guineabissau.png)  | Guinea Bissau       | Africa        |
 | ![Hungary](https://github.com/avreference/terrabandiere/blob/main/europe/hungary.png)  | Hungary       | Europe        |
 | ![Iceland](https://github.com/avreference/terrabandiere/blob/main/europe/iceland.png)  | Iceland       | Europe        |
 | ![Ireland](https://github.com/avreference/terrabandiere/blob/main/europe/ireland.png)  | Ireland       | Europe        |
 | ![Italy](https://github.com/avreference/terrabandiere/blob/main/europe/italy.png)  | Italy       | Europe        |
+| ![Ivory Coast](https://github.com/avreference/terrabandiere/blob/main/africa/ivorycoast.png)  | Ivory Coast       | Africa        |
 | ![Kazakhstan](https://github.com/avreference/terrabandiere/blob/main/europe/kazakhstan.png)  | Kazakhstan       | Europe        |
+| ![Kenia](https://github.com/avreference/terrabandiere/blob/main/africa/kenia.png)  | Kenia       | Africa        |
 | ![Latvia](https://github.com/avreference/terrabandiere/blob/main/europe/latvia.png)  | Latvia       | Europe        |
+| ![Lesotho](https://github.com/avreference/terrabandiere/blob/main/africa/lesotho.png)  | Lesotho       | Africa        |
+| ![Liberia](https://github.com/avreference/terrabandiere/blob/main/africa/liberia.png)  | Liberia       | Africa        |
+| ![Libya](https://github.com/avreference/terrabandiere/blob/main/africa/libya.png)  | Libya       | Africa        |
 | ![Liechtenstein](https://github.com/avreference/terrabandiere/blob/main/europe/liechtenstein.png)  | Liechtenstein       | Europe        |
 | ![Lithuania](https://github.com/avreference/terrabandiere/blob/main/europe/lithuania.png)  | Lithuania       | Europe        |
 | ![Luxembourg](https://github.com/avreference/terrabandiere/blob/main/europe/luxembourg.png)  | Luxembourg       | Europe        |
