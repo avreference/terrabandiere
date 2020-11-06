@@ -33,7 +33,7 @@ This readme.md file is a work-in-progress. Last update 06.11.2020
 | ![Lithuania](https://github.com/avreference/terrabandiere/blob/main/europe/lithuania.png)  | Lithuania       | Europe        |
 | ![Luxembourg](https://github.com/avreference/terrabandiere/blob/main/europe/luxembourg.png)  | Luxembourg       | Europe        |
 | ![Malta](https://github.com/avreference/terrabandiere/blob/main/europe/malta.png)  | Malta       | Europe        |
-| ![Moldova](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Moldova       | Europe        |
+| ![Moldova](https://github.com/avreference/terrabandiere/blob/main/europe/moldova.png)  | Moldova       | Europe        |
 | ![Monaco](https://github.com/avreference/terrabandiere/blob/main/europe/monaco.png)  | Monaco       | Europe        |
 | ![Montenegro](https://github.com/avreference/terrabandiere/blob/main/europe/montenegro.png)  | Montenegro       | Europe        |
 | ![Netherlands](https://github.com/avreference/terrabandiere/blob/main/europe/netherlands.png)  | Netherlands       | Europe        |
@@ -41,23 +41,16 @@ This readme.md file is a work-in-progress. Last update 06.11.2020
 | ![Norway](https://github.com/avreference/terrabandiere/blob/main/europe/norway.png)  | Norway       | Europe        |
 | ![Poland](https://github.com/avreference/terrabandiere/blob/main/europe/poland.png)  | Poland       | Europe        |
 | ![Portugal](https://github.com/avreference/terrabandiere/blob/main/europe/portugal.png)  | Portugal       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
+| ![Romania](https://github.com/avreference/terrabandiere/blob/main/europe/romania.png)  | Romania       | Europe        |
+| ![Russia](https://github.com/avreference/terrabandiere/blob/main/europe/russia.png)  | Russia       | Europe        |
+| ![San Marino](https://github.com/avreference/terrabandiere/blob/main/europe/sanmarino.png)  | San Marino       | Europe        |
+| ![Serbia](https://github.com/avreference/terrabandiere/blob/main/europe/serbia.png)  | Serbia       | Europe        |
+| ![Slovakia](https://github.com/avreference/terrabandiere/blob/main/europe/slovakia.png)  | Slovakia       | Europe        |
+| ![Slovenia](https://github.com/avreference/terrabandiere/blob/main/europe/slovenia.png)  | Slovenia       | Europe        |
+| ![Spain](https://github.com/avreference/terrabandiere/blob/main/europe/spain.png)  | Spain       | Europe        |
+| ![Sweden](https://github.com/avreference/terrabandiere/blob/main/europe/sweden.png)  | Sweden       | Europe        |
+| ![Switzerland](https://github.com/avreference/terrabandiere/blob/main/europe/switzerland.png)  | Switzerland       | Europe        |
+| ![Turkey](https://github.com/avreference/terrabandiere/blob/main/europe/turkey.png)  | Turkey       | Europe        |
+| ![Ukraine](https://github.com/avreference/terrabandiere/blob/main/europe/ukraine.png)  | Ukraine       | Europe        |
+| ![United Kingdom](https://github.com/avreference/terrabandiere/blob/main/europe/united kingdom.png)  | United Kingdom       | Europe        |
+| ![Vatican City](https://github.com/avreference/terrabandiere/blob/main/europe/vaticancity.png)  | Vatican City       | Europe        |
