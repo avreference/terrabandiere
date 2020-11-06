@@ -124,28 +124,45 @@ This readme.md file is a work-in-progress. Last update 06.11.2020
 | ![Romania](https://github.com/avreference/terrabandiere/blob/main/europe/romania.png)  | Romania       | Europe        |
 | ![Russia](https://github.com/avreference/terrabandiere/blob/main/europe/russia.png)  | Russia       | Europe        |
 | ![Rwanda](https://github.com/avreference/terrabandiere/blob/main/africa/rwanda.png)  | Rwanda       | Africa        |
+| ![Samoa](https://github.com/avreference/terrabandiere/blob/main/ania/samoa.png)  | Samoa       | Ania        |
 | ![San Marino](https://github.com/avreference/terrabandiere/blob/main/europe/sanmarino.png)  | San Marino       | Europe        |
 | ![Saotome and Principe](https://github.com/avreference/terrabandiere/blob/main/africa/saotomeandprincipe.png)  | Saotome and Principe      | Africa        |
+| ![Saudi Arabia](https://github.com/avreference/terrabandiere/blob/main/ania/saudiarabia.png)  | Saudi Arabia       | Ania        |
 | ![Senegal](https://github.com/avreference/terrabandiere/blob/main/africa/senegal.png)  | Senegal       | Africa        |
 | ![Serbia](https://github.com/avreference/terrabandiere/blob/main/europe/serbia.png)  | Serbia       | Europe        |
 | ![Seychelles](https://github.com/avreference/terrabandiere/blob/main/africa/seychelles.png)  | Seychelles       | Africa        |
 | ![Sierra Leone](https://github.com/avreference/terrabandiere/blob/main/africa/sierraleone.png)  | Sierra Leone       | Africa        |
+| ![Singapore](https://github.com/avreference/terrabandiere/blob/main/ania/singapore.png)  | Singapore       | Ania        |
 | ![Slovakia](https://github.com/avreference/terrabandiere/blob/main/europe/slovakia.png)  | Slovakia       | Europe        |
 | ![Slovenia](https://github.com/avreference/terrabandiere/blob/main/europe/slovenia.png)  | Slovenia       | Europe        |
+| ![Solomon](https://github.com/avreference/terrabandiere/blob/main/ania/solomon.png)  | Solomon       | Ania        |
 | ![Somalia](https://github.com/avreference/terrabandiere/blob/main/africa/somalia.png)  | Somalia       | Africa        |
 | ![South Africa](https://github.com/avreference/terrabandiere/blob/main/africa/southafrica.png)  | South Africa       | Africa        |
+| ![South Corea](https://github.com/avreference/terrabandiere/blob/main/ania/southcorea.png)  | South Corea       | Ania        |
 | ![South Sudan](https://github.com/avreference/terrabandiere/blob/main/africa/southsudan.png)  | South Sudan       | Africa        |
 | ![Spain](https://github.com/avreference/terrabandiere/blob/main/europe/spain.png)  | Spain       | Europe        |
+| ![Srilanka](https://github.com/avreference/terrabandiere/blob/main/ania/srilanka.png)  | Srilanka       | Ania        |
 | ![Sudan](https://github.com/avreference/terrabandiere/blob/main/africa/sudan.png)  | Sudan       | Africa        |
 | ![Sweden](https://github.com/avreference/terrabandiere/blob/main/europe/sweden.png)  | Sweden       | Europe        |
 | ![Switzerland](https://github.com/avreference/terrabandiere/blob/main/europe/switzerland.png)  | Switzerland       | Europe        |
+| ![Syria](https://github.com/avreference/terrabandiere/blob/main/ania/syria.png)  | Syria       | Ania        |
+| ![Tajikistan](https://github.com/avreference/terrabandiere/blob/main/ania/tajikistan.png)  | Tajikistan       | Ania        |
 | ![Tanzania](https://github.com/avreference/terrabandiere/blob/main/africa/tanzania.png)  | Tanzania       | Africa        |
+| ![Thailand](https://github.com/avreference/terrabandiere/blob/main/ania/thailand.png)  | Thailand       | Ania        |
 | ![Togo](https://github.com/avreference/terrabandiere/blob/main/africa/togo.png)  | Togo       | Africa        |
+| ![Tonga](https://github.com/avreference/terrabandiere/blob/main/ania/tonga.png)  | Tonga       | Ania        |
 | ![Tunisia](https://github.com/avreference/terrabandiere/blob/main/africa/tunisia.png)  | Tunisia       | Africa        |
 | ![Turkey](https://github.com/avreference/terrabandiere/blob/main/europe/turkey.png)  | Turkey       | Europe        |
+| ![Turkmenistan](https://github.com/avreference/terrabandiere/blob/main/ania/turkmenistan.png)  | Turkmenistan       | Ania        |
+| ![Tuvalu](https://github.com/avreference/terrabandiere/blob/main/ania/tuvalu.png)  | Tuvalu       | Ania        |
 | ![Ukraine](https://github.com/avreference/terrabandiere/blob/main/europe/ukraine.png)  | Ukraine       | Europe        |
 | ![Uganda](https://github.com/avreference/terrabandiere/blob/main/africa/uganda.png)  | Uganda       | Africa        |
+| ![United Arab Emirates](https://github.com/avreference/terrabandiere/blob/main/ania/unitedarabemirates.png)  | United Arab Emirates       | Ania        |
 | ![United Kingdom](https://github.com/avreference/terrabandiere/blob/main/europe/unitedkingdom.png)  | United Kingdom       | Europe        |
+| ![Uzbekistan](https://github.com/avreference/terrabandiere/blob/main/ania/uzbekistan.png)  | Uzbekistan       | Ania        |
+| ![Vanuatu](https://github.com/avreference/terrabandiere/blob/main/ania/vanuatu.png)  | Vanuatu       | Ania        |
 | ![Vatican City](https://github.com/avreference/terrabandiere/blob/main/europe/vaticancity.png)  | Vatican City       | Europe        |
+| ![Vietnam](https://github.com/avreference/terrabandiere/blob/main/ania/vietnam.png)  | Vietnam       | Ania        |
+| ![Yemen](https://github.com/avreference/terrabandiere/blob/main/ania/yemen.png)  | Yemen       | Ania        |
 | ![Zambia](https://github.com/avreference/terrabandiere/blob/main/africa/zambia.png)  | Zambia       | Africa        |
 | ![Zimbabwe](https://github.com/avreference/terrabandiere/blob/main/africa/zimbabwe.png)  | Zimbabwe       | Africa        |
