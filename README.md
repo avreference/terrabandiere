@@ -9,6 +9,7 @@ This readme.md file is a work-in-progress. Last update 06.11.2020
 | ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
 | ![Andorra](https://github.com/avreference/terrabandiere/blob/main/europe/andorra.png)  | Andorra       | Europe        |
 | ![Armenia](https://github.com/avreference/terrabandiere/blob/main/europe/armenia.png)  | Armenia       | Europe        |
+| ![Austria](https://github.com/avreference/terrabandiere/blob/main/europe/austria.png)  | Austria       | Europe        |
 | ![Azerbaijan](https://github.com/avreference/terrabandiere/blob/main/europe/austria.png)  | Azerbaijan       | Europe        |
 | ![Belarus](https://github.com/avreference/terrabandiere/blob/main/europe/belarus.png)  | Belarus       | Europe        |
 | ![Belgium](https://github.com/avreference/terrabandiere/blob/main/europe/belgium.png)  | Belgium       | Europe        |
@@ -26,6 +27,7 @@ This readme.md file is a work-in-progress. Last update 06.11.2020
 | ![Greece](https://github.com/avreference/terrabandiere/blob/main/europe/greece.png)  | Greece       | Europe        |
 | ![Hungary](https://github.com/avreference/terrabandiere/blob/main/europe/hungary.png)  | Hungary       | Europe        |
 | ![Iceland](https://github.com/avreference/terrabandiere/blob/main/europe/iceland.png)  | Iceland       | Europe        |
+| ![Ireland](https://github.com/avreference/terrabandiere/blob/main/europe/ireland.png)  | Ireland       | Europe        |
 | ![Italy](https://github.com/avreference/terrabandiere/blob/main/europe/italy.png)  | Italy       | Europe        |
 | ![Kazakhstan](https://github.com/avreference/terrabandiere/blob/main/europe/kazakhstan.png)  | Kazakhstan       | Europe        |
 | ![Latvia](https://github.com/avreference/terrabandiere/blob/main/europe/latvia.png)  | Latvia       | Europe        |
