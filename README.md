@@ -103,13 +103,23 @@ This readme.md file is a work-in-progress. Last update 06.11.2020
 | ![Myanmar](https://github.com/avreference/terrabandiere/blob/main/ania/myanmar.png)  | Myanmar       | Ania        |
 | ![Namibia](https://github.com/avreference/terrabandiere/blob/main/africa/namibia.png)  | Namibia       | Africa        |
 | ![Nauru](https://github.com/avreference/terrabandiere/blob/main/ania/nauru.png)  | Nauru       | Ania        |
+| ![Nepal](https://github.com/avreference/terrabandiere/blob/main/ania/nepal.png)  | Nepal       | Ania        |
 | ![Netherlands](https://github.com/avreference/terrabandiere/blob/main/europe/netherlands.png)  | Netherlands       | Europe        |
+| ![New Zealand](https://github.com/avreference/terrabandiere/blob/main/ania/newzealand.png)  | New Zealand       | Ania        |
 | ![Niger](https://github.com/avreference/terrabandiere/blob/main/africa/niger.png)  | Niger       | Africa        |
 | ![Nigeria](https://github.com/avreference/terrabandiere/blob/main/africa/nigeria.png)  | Nigeria       | Africa        |
+| ![North Corea](https://github.com/avreference/terrabandiere/blob/main/ania/northcorea.png)  | North Corea       | Ania        |
 | ![North Macedonia](https://github.com/avreference/terrabandiere/blob/main/europe/northmacedonia.png)  | North Macedonia       | Europe        |
 | ![Norway](https://github.com/avreference/terrabandiere/blob/main/europe/norway.png)  | Norway       | Europe        |
+| ![Oman](https://github.com/avreference/terrabandiere/blob/main/ania/oman.png)  | Oman       | Ania        |
+| ![Pakistan](https://github.com/avreference/terrabandiere/blob/main/ania/pakistan.png)  | Pakistan       | Ania        |
+| ![Palau](https://github.com/avreference/terrabandiere/blob/main/ania/palau.png)  | Palau       | Ania        |
+| ![Palestine](https://github.com/avreference/terrabandiere/blob/main/ania/palestine.png)  | Palestine       | Ania        |
+| ![Papua New Guinea](https://github.com/avreference/terrabandiere/blob/main/ania/papuanewguinea.png)  | Papua New Guinea       | Ania        |
+| ![Philippines](https://github.com/avreference/terrabandiere/blob/main/ania/philippines.png)  | Philippines       | Ania        |
 | ![Poland](https://github.com/avreference/terrabandiere/blob/main/europe/poland.png)  | Poland       | Europe        |
 | ![Portugal](https://github.com/avreference/terrabandiere/blob/main/europe/portugal.png)  | Portugal       | Europe        |
+| ![Qatar](https://github.com/avreference/terrabandiere/blob/main/ania/qatar.png)  | Qatar       | Ania        |
 | ![Republic of the Congo](https://github.com/avreference/terrabandiere/blob/main/africa/republicofthecongo.png)  | Republic of the Congo       | Africa        |
 | ![Romania](https://github.com/avreference/terrabandiere/blob/main/europe/romania.png)  | Romania       | Europe        |
 | ![Russia](https://github.com/avreference/terrabandiere/blob/main/europe/russia.png)  | Russia       | Europe        |
