@@ -62,25 +62,51 @@ This readme.md file is a work-in-progress. Last update 06.11.2020
 | ![Liechtenstein](https://github.com/avreference/terrabandiere/blob/main/europe/liechtenstein.png)  | Liechtenstein       | Europe        |
 | ![Lithuania](https://github.com/avreference/terrabandiere/blob/main/europe/lithuania.png)  | Lithuania       | Europe        |
 | ![Luxembourg](https://github.com/avreference/terrabandiere/blob/main/europe/luxembourg.png)  | Luxembourg       | Europe        |
+| ![Madagascar](https://github.com/avreference/terrabandiere/blob/main/africa/madagascar.png)  | Madagascar       | Africa        |
+| ![Malawi](https://github.com/avreference/terrabandiere/blob/main/africa/malawi.png)  | Malawi       | Africa        |
+| ![Mali](https://github.com/avreference/terrabandiere/blob/main/africa/mali.png)  | Mali       | Africa        |
 | ![Malta](https://github.com/avreference/terrabandiere/blob/main/europe/malta.png)  | Malta       | Europe        |
+| ![Mauritania](https://github.com/avreference/terrabandiere/blob/main/africa/mauritania.png)  | Mauritania       | Africa        |
+| ![Mauritius](https://github.com/avreference/terrabandiere/blob/main/africa/mauritius.png)  | Mauritius       | Africa        |
 | ![Moldova](https://github.com/avreference/terrabandiere/blob/main/europe/moldova.png)  | Moldova       | Europe        |
 | ![Monaco](https://github.com/avreference/terrabandiere/blob/main/europe/monaco.png)  | Monaco       | Europe        |
 | ![Montenegro](https://github.com/avreference/terrabandiere/blob/main/europe/montenegro.png)  | Montenegro       | Europe        |
+| ![Morocco](https://github.com/avreference/terrabandiere/blob/main/africa/morocco.png)  | Morocco       | Africa        |
+| ![Mozambique](https://github.com/avreference/terrabandiere/blob/main/africa/mozambique.png)  | Mozambique       | Africa        |
+| ![Namibia](https://github.com/avreference/terrabandiere/blob/main/africa/namibia.png)  | Namibia       | Africa        |
 | ![Netherlands](https://github.com/avreference/terrabandiere/blob/main/europe/netherlands.png)  | Netherlands       | Europe        |
+| ![Niger](https://github.com/avreference/terrabandiere/blob/main/africa/niger.png)  | Niger       | Africa        |
+| ![Nigeria](https://github.com/avreference/terrabandiere/blob/main/africa/nigeria.png)  | Nigeria       | Africa        |
 | ![North Macedonia](https://github.com/avreference/terrabandiere/blob/main/europe/northmacedonia.png)  | North Macedonia       | Europe        |
 | ![Norway](https://github.com/avreference/terrabandiere/blob/main/europe/norway.png)  | Norway       | Europe        |
 | ![Poland](https://github.com/avreference/terrabandiere/blob/main/europe/poland.png)  | Poland       | Europe        |
 | ![Portugal](https://github.com/avreference/terrabandiere/blob/main/europe/portugal.png)  | Portugal       | Europe        |
+| ![Republic of the Congo](https://github.com/avreference/terrabandiere/blob/main/africa/republicofthecongo.png)  | Republic of the Congo       | Africa        |
 | ![Romania](https://github.com/avreference/terrabandiere/blob/main/europe/romania.png)  | Romania       | Europe        |
 | ![Russia](https://github.com/avreference/terrabandiere/blob/main/europe/russia.png)  | Russia       | Europe        |
+| ![Rwanda](https://github.com/avreference/terrabandiere/blob/main/africa/rwanda.png)  | Rwanda       | Africa        |
 | ![San Marino](https://github.com/avreference/terrabandiere/blob/main/europe/sanmarino.png)  | San Marino       | Europe        |
+| ![Saotome and Principe](https://github.com/avreference/terrabandiere/blob/main/africa/saotomeandprincipe.png)  | Saotome and Principe      | Africa        |
+| ![Senegal](https://github.com/avreference/terrabandiere/blob/main/africa/senegal.png)  | Senegal       | Africa        |
 | ![Serbia](https://github.com/avreference/terrabandiere/blob/main/europe/serbia.png)  | Serbia       | Europe        |
+| ![Seychelles](https://github.com/avreference/terrabandiere/blob/main/africa/seychelles.png)  | Seychelles       | Africa        |
+| ![Sierra Leone](https://github.com/avreference/terrabandiere/blob/main/africa/sierraleone.png)  | Sierra Leone       | Africa        |
 | ![Slovakia](https://github.com/avreference/terrabandiere/blob/main/europe/slovakia.png)  | Slovakia       | Europe        |
 | ![Slovenia](https://github.com/avreference/terrabandiere/blob/main/europe/slovenia.png)  | Slovenia       | Europe        |
+| ![Somalia](https://github.com/avreference/terrabandiere/blob/main/africa/somalia.png)  | Somalia       | Africa        |
+| ![South Africa](https://github.com/avreference/terrabandiere/blob/main/africa/southafrica.png)  | South Africa       | Africa        |
+| ![South Sudan](https://github.com/avreference/terrabandiere/blob/main/africa/southsudan.png)  | South Sudan       | Africa        |
 | ![Spain](https://github.com/avreference/terrabandiere/blob/main/europe/spain.png)  | Spain       | Europe        |
+| ![Sudan](https://github.com/avreference/terrabandiere/blob/main/africa/sudan.png)  | Sudan       | Africa        |
 | ![Sweden](https://github.com/avreference/terrabandiere/blob/main/europe/sweden.png)  | Sweden       | Europe        |
 | ![Switzerland](https://github.com/avreference/terrabandiere/blob/main/europe/switzerland.png)  | Switzerland       | Europe        |
+| ![Tanzania](https://github.com/avreference/terrabandiere/blob/main/africa/tanzania.png)  | Tanzania       | Africa        |
+| ![Togo](https://github.com/avreference/terrabandiere/blob/main/africa/togo.png)  | Togo       | Africa        |
+| ![Tunisia](https://github.com/avreference/terrabandiere/blob/main/africa/tunisia.png)  | Tunisia       | Africa        |
 | ![Turkey](https://github.com/avreference/terrabandiere/blob/main/europe/turkey.png)  | Turkey       | Europe        |
 | ![Ukraine](https://github.com/avreference/terrabandiere/blob/main/europe/ukraine.png)  | Ukraine       | Europe        |
+| ![Uganda](https://github.com/avreference/terrabandiere/blob/main/africa/uganda.png)  | Uganda       | Africa        |
 | ![United Kingdom](https://github.com/avreference/terrabandiere/blob/main/europe/unitedkingdom.png)  | United Kingdom       | Europe        |
 | ![Vatican City](https://github.com/avreference/terrabandiere/blob/main/europe/vaticancity.png)  | Vatican City       | Europe        |
+| ![Zambia](https://github.com/avreference/terrabandiere/blob/main/africa/zambia.png)  | Zambia       | Africa        |
+| ![Zimbabwe](https://github.com/avreference/terrabandiere/blob/main/africa/zimbabwe.png)  | Zimbabwe       | Africa        |
