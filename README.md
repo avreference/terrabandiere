@@ -17,16 +17,16 @@ This readme.md file is a work-in-progress. Last update 06.11.2020
 | ![Croatia](https://github.com/avreference/terrabandiere/blob/main/europe/croatia.png)  | Croatia       | Europe        |
 | ![Cyprus](https://github.com/avreference/terrabandiere/blob/main/europe/cyprus.png)  | Cyprus       | Europe        |
 | ![Czech Republic](https://github.com/avreference/terrabandiere/blob/main/europe/czechrepublic.png)  | Czech Republic       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
+| ![Denmark](https://github.com/avreference/terrabandiere/blob/main/europe/denmark.png)  | Denmark       | Europe        |
+| ![Estonia](https://github.com/avreference/terrabandiere/blob/main/europe/estonia.png)  | Estonia       | Europe        |
+| ![Finland](https://github.com/avreference/terrabandiere/blob/main/europe/finland.png)  | Finland       | Europe        |
+| ![France](https://github.com/avreference/terrabandiere/blob/main/europe/france.png)  | France       | Europe        |
+| ![Georgia](https://github.com/avreference/terrabandiere/blob/main/europe/georgia.png)  | Georgia       | Europe        |
+| ![Germany](https://github.com/avreference/terrabandiere/blob/main/europe/germany.png)  | Germany       | Europe        |
+| ![Greece](https://github.com/avreference/terrabandiere/blob/main/europe/greece.png)  | Greece       | Europe        |
+| ![Hungary](https://github.com/avreference/terrabandiere/blob/main/europe/hungary.png)  | Hungary       | Europe        |
+| ![Iceland](https://github.com/avreference/terrabandiere/blob/main/europe/iceland.png)  | Iceland       | Europe        |
+| ![Italy](https://github.com/avreference/terrabandiere/blob/main/europe/italy.png)  | Italy       | Europe        |
 | ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
 | ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
 | ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
