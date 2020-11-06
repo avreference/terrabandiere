@@ -6,25 +6,33 @@ This readme.md file is a work-in-progress. Last update 06.11.2020
 
 | Icon          | Name          | Folder        |
 | :-: | ------------- | ------------- |
+| ![Afghanistan](https://github.com/avreference/terrabandiere/blob/main/ania/afghanistan.png)  | Afghanistan       | Ania        |
 | ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
 | ![Algeria](https://github.com/avreference/terrabandiere/blob/main/africa/algeria.png)  | Algeria       | Africa        |
 | ![Andorra](https://github.com/avreference/terrabandiere/blob/main/europe/andorra.png)  | Andorra       | Europe        |
 | ![Angola](https://github.com/avreference/terrabandiere/blob/main/africa/angola.png)  | Angola       | Africa        |
 | ![Armenia](https://github.com/avreference/terrabandiere/blob/main/europe/armenia.png)  | Armenia       | Europe        |
+| ![Australia](https://github.com/avreference/terrabandiere/blob/main/ania/australia.png)  | Australia       | Ania        |
 | ![Austria](https://github.com/avreference/terrabandiere/blob/main/europe/austria.png)  | Austria       | Europe        |
 | ![Azerbaijan](https://github.com/avreference/terrabandiere/blob/main/europe/austria.png)  | Azerbaijan       | Europe        |
+| ![Bahrain](https://github.com/avreference/terrabandiere/blob/main/ania/bahrain.png)  | Bahrain       | Ania        |
+| ![Bangladesh](https://github.com/avreference/terrabandiere/blob/main/ania/bangladesh.png)  | Bangladesh       | Ania        |
 | ![Belarus](https://github.com/avreference/terrabandiere/blob/main/europe/belarus.png)  | Belarus       | Europe        |
 | ![Belgium](https://github.com/avreference/terrabandiere/blob/main/europe/belgium.png)  | Belgium       | Europe        |
 | ![Benin](https://github.com/avreference/terrabandiere/blob/main/africa/benin.png)  | Benin       | Africa        |
+| ![Bhutan](https://github.com/avreference/terrabandiere/blob/main/ania/bhutan.png)  | Bhutan       | Ania        |
 | ![Bosnia Herzegovina](https://github.com/avreference/terrabandiere/blob/main/europe/bosniaherzegovina.png)  | Bosnia Herzegovina       | Europe        |
 | ![Botswana](https://github.com/avreference/terrabandiere/blob/main/africa/botswana.png)  | Botswana       | Africa        |
+| ![Brunei](https://github.com/avreference/terrabandiere/blob/main/ania/brunei.png)  | Brunei       | Ania        |
 | ![Bulgaria](https://github.com/avreference/terrabandiere/blob/main/europe/bulgaria.png)  | Bulgaria       | Europe        |
 | ![Burkina Faso](https://github.com/avreference/terrabandiere/blob/main/africa/burkinafaso.png)  | Burkina Faso       | Africa        |
 | ![Burundi](https://github.com/avreference/terrabandiere/blob/main/africa/burundi.png)  | Burundi       | Africa        |
+| ![Cambodia](https://github.com/avreference/terrabandiere/blob/main/ania/cambodia.png)  | Cambodia       | Ania        |
 | ![Cameroon](https://github.com/avreference/terrabandiere/blob/main/africa/cameroon.png)  | Cameroon       | Africa        |
 | ![Cape Verde](https://github.com/avreference/terrabandiere/blob/main/africa/capeverde.png)  | Cape Verde       | Africa        |
 | ![Central African Republic](https://github.com/avreference/terrabandiere/blob/main/africa/centralafricanrepublic.png)  | Central African Republic       | Africa        |
 | ![Chad](https://github.com/avreference/terrabandiere/blob/main/africa/chad.png)  | Chad       | Africa        |
+| ![China](https://github.com/avreference/terrabandiere/blob/main/ania/china.png)  | China       | Ania        |
 | ![Comoros](https://github.com/avreference/terrabandiere/blob/main/africa/comoros.png)  | Comoros       | Africa        |
 | ![Croatia](https://github.com/avreference/terrabandiere/blob/main/europe/croatia.png)  | Croatia       | Europe        |
 | ![Cyprus](https://github.com/avreference/terrabandiere/blob/main/europe/cyprus.png)  | Cyprus       | Europe        |
