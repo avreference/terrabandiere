@@ -1,7 +1,7 @@
 # Terrabandiere
 ## A libre collection of pixel-art flags.
 
-This readme.md file is a work-in-progress. Last update 06.11.2020
+This readme.md file is a work-in-progress. Last update 07.11.2020
 
 
 | Icon          | Name          | Folder        |
