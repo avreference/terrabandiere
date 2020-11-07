@@ -75,8 +75,8 @@ This readme.md file is a work-in-progress. Last update 07.11.2020
 | ![Iceland](https://github.com/avreference/terrabandiere/blob/main/europe/iceland.png)  | Iceland       | Europe        |
 | ![Idaho](https://github.com/avreference/terrabandiere/blob/main/usa/idaho.png)  | Idaho       | USA        |
 | ![illinois](https://github.com/avreference/terrabandiere/blob/main/usa/illinois.png)  | Illinois       | USA        |
-| ![Indiana](https://github.com/avreference/terrabandiere/blob/main/usa/indiana.png)  | Indiana       | USA        |
 | ![India](https://github.com/avreference/terrabandiere/blob/main/ania/india.png)  | India       | Ania        |
+| ![Indiana](https://github.com/avreference/terrabandiere/blob/main/usa/indiana.png)  | Indiana       | USA        |
 | ![Indonesia](https://github.com/avreference/terrabandiere/blob/main/ania/indonesia.png)  | Indonesia       | Ania        |
 | ![Iowa](https://github.com/avreference/terrabandiere/blob/main/usa/iowa.png)  | Iowa       | USA        |
 | ![Iran](https://github.com/avreference/terrabandiere/blob/main/ania/iran.png)  | Iran       | Ania        |
