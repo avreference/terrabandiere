@@ -14,20 +14,31 @@ This readme.md file is a work-in-progress. Last update 07.11.2020
 | ![Algeria](https://github.com/avreference/terrabandiere/blob/main/africa/algeria.png)  | Algeria       | Africa        |
 | ![Andorra](https://github.com/avreference/terrabandiere/blob/main/europe/andorra.png)  | Andorra       | Europe        |
 | ![Angola](https://github.com/avreference/terrabandiere/blob/main/africa/angola.png)  | Angola       | Africa        |
+| ![Antigua Barbuda](https://github.com/avreference/terrabandiere/blob/main/special/antiguabarbuda.png)  | Antigua Barbuda       | Special        |
+| ![Argentina](https://github.com/avreference/terrabandiere/blob/main/special/argentina.png)  | Argentina       | Special        |
 | ![Arizona](https://github.com/avreference/terrabandiere/blob/main/usa/arizona.png)  | Arizona       | USA        |
 | ![Arkansas](https://github.com/avreference/terrabandiere/blob/main/usa/arkansas.png)  | Arkansas       | USA        |
 | ![Armenia](https://github.com/avreference/terrabandiere/blob/main/europe/armenia.png)  | Armenia       | Europe        |
+| ![Aromantic](https://github.com/avreference/terrabandiere/blob/main/special/aromantic.png)  | Aromantic       | Special        |
+| ![Asexuality](https://github.com/avreference/terrabandiere/blob/main/special/asexuality.png)  | Asexuality       | Special        |
 | ![Australia](https://github.com/avreference/terrabandiere/blob/main/ania/australia.png)  | Australia       | Ania        |
 | ![Austria](https://github.com/avreference/terrabandiere/blob/main/europe/austria.png)  | Austria       | Europe        |
 | ![Azerbaijan](https://github.com/avreference/terrabandiere/blob/main/europe/azerbaijan.png)  | Azerbaijan       | Europe        |
+| ![Bahamas](https://github.com/avreference/terrabandiere/blob/main/special/bahamas.png)  | Bahamas       | Special        |
 | ![Bahrain](https://github.com/avreference/terrabandiere/blob/main/ania/bahrain.png)  | Bahrain       | Ania        |
 | ![Bangladesh](https://github.com/avreference/terrabandiere/blob/main/ania/bangladesh.png)  | Bangladesh       | Ania        |
+| ![Barbados](https://github.com/avreference/terrabandiere/blob/main/special/barbados.png)  | Barbados       | Special        |
+| ![Bear](https://github.com/avreference/terrabandiere/blob/main/special/bear.png)  | Bear       | Special        |
 | ![Belarus](https://github.com/avreference/terrabandiere/blob/main/europe/belarus.png)  | Belarus       | Europe        |
 | ![Belgium](https://github.com/avreference/terrabandiere/blob/main/europe/belgium.png)  | Belgium       | Europe        |
+| ![Belize](https://github.com/avreference/terrabandiere/blob/main/special/belize.png)  | Belize       | Special        |
 | ![Benin](https://github.com/avreference/terrabandiere/blob/main/africa/benin.png)  | Benin       | Africa        |
 | ![Bhutan](https://github.com/avreference/terrabandiere/blob/main/ania/bhutan.png)  | Bhutan       | Ania        |
+| ![Bisexuality](https://github.com/avreference/terrabandiere/blob/main/special/bisexuality.png)  | Bisexuality       | Special        |
+| ![Bolivia](https://github.com/avreference/terrabandiere/blob/main/special/bolivia.png)  | Bolivia       | Special        |
 | ![Bosnia Herzegovina](https://github.com/avreference/terrabandiere/blob/main/europe/bosniaherzegovina.png)  | Bosnia Herzegovina       | Europe        |
 | ![Botswana](https://github.com/avreference/terrabandiere/blob/main/africa/botswana.png)  | Botswana       | Africa        |
+| ![Brazil](https://github.com/avreference/terrabandiere/blob/main/special/brazil.png)  | Brazil       | Special        |
 | ![Brunei](https://github.com/avreference/terrabandiere/blob/main/ania/brunei.png)  | Brunei       | Ania        |
 | ![Bulgaria](https://github.com/avreference/terrabandiere/blob/main/europe/bulgaria.png)  | Bulgaria       | Europe        |
 | ![Burkina Faso](https://github.com/avreference/terrabandiere/blob/main/africa/burkinafaso.png)  | Burkina Faso       | Africa        |
@@ -35,15 +46,20 @@ This readme.md file is a work-in-progress. Last update 07.11.2020
 | ![California](https://github.com/avreference/terrabandiere/blob/main/usa/california.png)  | California       | USA        |
 | ![Cambodia](https://github.com/avreference/terrabandiere/blob/main/ania/cambodia.png)  | Cambodia       | Ania        |
 | ![Cameroon](https://github.com/avreference/terrabandiere/blob/main/africa/cameroon.png)  | Cameroon       | Africa        |
+| ![Canada](https://github.com/avreference/terrabandiere/blob/main/special/canada.png)  | Canada       | Special        |
 | ![Cape Verde](https://github.com/avreference/terrabandiere/blob/main/africa/capeverde.png)  | Cape Verde       | Africa        |
 | ![Central African Republic](https://github.com/avreference/terrabandiere/blob/main/africa/centralafricanrepublic.png)  | Central African Republic       | Africa        |
 | ![Chad](https://github.com/avreference/terrabandiere/blob/main/africa/chad.png)  | Chad       | Africa        |
+| ![Chile](https://github.com/avreference/terrabandiere/blob/main/special/chile.png)  | Chile       | Special        |
 | ![China](https://github.com/avreference/terrabandiere/blob/main/ania/china.png)  | China       | Ania        |
+| ![Colombia](https://github.com/avreference/terrabandiere/blob/main/special/colombia.png)  | Colombia       | Special        |
 | ![Colorado](https://github.com/avreference/terrabandiere/blob/main/usa/colorado.png)  | Colorado       | USA        |
 | ![Columbia](https://github.com/avreference/terrabandiere/blob/main/usa/columbia.png)  | Columbia       | USA        |
 | ![Comoros](https://github.com/avreference/terrabandiere/blob/main/africa/comoros.png)  | Comoros       | Africa        |
 | ![Connecticut](https://github.com/avreference/terrabandiere/blob/main/usa/connecticut.png)  | Connecticut       | USA        |
+| ![Costa Rica](https://github.com/avreference/terrabandiere/blob/main/special/costarica.png)  | Costa Rica       | Special        |
 | ![Croatia](https://github.com/avreference/terrabandiere/blob/main/europe/croatia.png)  | Croatia       | Europe        |
+| ![Cuba](https://github.com/avreference/terrabandiere/blob/main/special/cuba.png)  | Cuba       | Special        |
 | ![Cyprus](https://github.com/avreference/terrabandiere/blob/main/europe/cyprus.png)  | Cyprus       | Europe        |
 | ![Czech Republic](https://github.com/avreference/terrabandiere/blob/main/europe/czechrepublic.png)  | Czech Republic       | Europe        |
 | ![Delaware](https://github.com/avreference/terrabandiere/blob/main/usa/delaware.png)  | Delaware       | USA        |
