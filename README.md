@@ -135,12 +135,20 @@ This readme.md file is a work-in-progress. Last update 07.11.2020
 | ![Nepal](https://github.com/avreference/terrabandiere/blob/main/ania/nepal.png)  | Nepal       | Ania        |
 | ![Netherlands](https://github.com/avreference/terrabandiere/blob/main/europe/netherlands.png)  | Netherlands       | Europe        |
 | ![Nevada](https://github.com/avreference/terrabandiere/blob/main/usa/nevada.png)  | Nevada       | USA        |
+| ![New Hampshire](https://github.com/avreference/terrabandiere/blob/main/usa/newhampshire.png)  | New Hampshire       | USA        |
+| ![New Jersey](https://github.com/avreference/terrabandiere/blob/main/usa/newjersey.png)  | New Jersey       | USA        |
+| ![New Mexico](https://github.com/avreference/terrabandiere/blob/main/usa/newmexico.png)  | New Mexico       | USA        |
+| ![New York](https://github.com/avreference/terrabandiere/blob/main/usa/newyork.png)  | New York       | USA        |
 | ![New Zealand](https://github.com/avreference/terrabandiere/blob/main/ania/newzealand.png)  | New Zealand       | Ania        |
 | ![Niger](https://github.com/avreference/terrabandiere/blob/main/africa/niger.png)  | Niger       | Africa        |
 | ![Nigeria](https://github.com/avreference/terrabandiere/blob/main/africa/nigeria.png)  | Nigeria       | Africa        |
+| ![North Carolina](https://github.com/avreference/terrabandiere/blob/main/usa/northcarolina.png)  | North Carolina       | USA        |
 | ![North Corea](https://github.com/avreference/terrabandiere/blob/main/ania/northcorea.png)  | North Corea       | Ania        |
+| ![North Dakota](https://github.com/avreference/terrabandiere/blob/main/usa/northdakota.png)  | North Dakota       | USA        |
 | ![North Macedonia](https://github.com/avreference/terrabandiere/blob/main/europe/northmacedonia.png)  | North Macedonia       | Europe        |
+| ![Northen Mariana Islands](https://github.com/avreference/terrabandiere/blob/main/usa/northenmarianaislands.png)  | Northen Mariana Islands       | USA        |
 | ![Norway](https://github.com/avreference/terrabandiere/blob/main/europe/norway.png)  | Norway       | Europe        |
+| ![Ohio](https://github.com/avreference/terrabandiere/blob/main/usa/ohio.png)  | Ohio       | USA        |
 | ![Oman](https://github.com/avreference/terrabandiere/blob/main/ania/oman.png)  | Oman       | Ania        |
 | ![Pakistan](https://github.com/avreference/terrabandiere/blob/main/ania/pakistan.png)  | Pakistan       | Ania        |
 | ![Palau](https://github.com/avreference/terrabandiere/blob/main/ania/palau.png)  | Palau       | Ania        |
