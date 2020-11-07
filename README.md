@@ -14,7 +14,7 @@ This readme.md file is a work-in-progress. Last update 07.11.2020
 | ![Algeria](https://github.com/avreference/terrabandiere/blob/main/africa/algeria.png)  | Algeria       | Africa        |
 | ![Andorra](https://github.com/avreference/terrabandiere/blob/main/europe/andorra.png)  | Andorra       | Europe        |
 | ![Angola](https://github.com/avreference/terrabandiere/blob/main/africa/angola.png)  | Angola       | Africa        |
-| ![Antigua Barbuda](https://github.com/avreference/terrabandiere/blob/main/special/antiguabarbuda.png)  | Antigua Barbuda       | Special        |
+| ![Antigua Barbuda](https://github.com/avreference/terrabandiere/blob/main/special/antiguabarbuda.png)  | Antigua and Barbuda       | Special        |
 | ![Argentina](https://github.com/avreference/terrabandiere/blob/main/special/argentina.png)  | Argentina       | Special        |
 | ![Arizona](https://github.com/avreference/terrabandiere/blob/main/usa/arizona.png)  | Arizona       | USA        |
 | ![Arkansas](https://github.com/avreference/terrabandiere/blob/main/usa/arkansas.png)  | Arkansas       | USA        |
