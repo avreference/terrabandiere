@@ -7,6 +7,7 @@ This readme.md file is a work-in-progress. Last update 07.11.2020
 | Icon          | Name          | Folder        |
 | :-: | ------------- | ------------- |
 | ![Afghanistan](https://github.com/avreference/terrabandiere/blob/main/ania/afghanistan.png)  | Afghanistan       | Ania        |
+| ![Alabama](https://github.com/avreference/terrabandiere/blob/main/usa/alabama.png)  | Alabama       | USA        |
 | ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
 | ![Algeria](https://github.com/avreference/terrabandiere/blob/main/africa/algeria.png)  | Algeria       | Africa        |
 | ![Andorra](https://github.com/avreference/terrabandiere/blob/main/europe/andorra.png)  | Andorra       | Europe        |
