@@ -149,20 +149,26 @@ This readme.md file is a work-in-progress. Last update 07.11.2020
 | ![Northen Mariana Islands](https://github.com/avreference/terrabandiere/blob/main/usa/northenmarianaislands.png)  | Northen Mariana Islands       | USA        |
 | ![Norway](https://github.com/avreference/terrabandiere/blob/main/europe/norway.png)  | Norway       | Europe        |
 | ![Ohio](https://github.com/avreference/terrabandiere/blob/main/usa/ohio.png)  | Ohio       | USA        |
+| ![Oklahoma](https://github.com/avreference/terrabandiere/blob/main/usa/oklahoma.png)  | Oklahoma       | USA        |
 | ![Oman](https://github.com/avreference/terrabandiere/blob/main/ania/oman.png)  | Oman       | Ania        |
+| ![Oregon](https://github.com/avreference/terrabandiere/blob/main/usa/oregon.png)  | Oregon       | USA        |
 | ![Pakistan](https://github.com/avreference/terrabandiere/blob/main/ania/pakistan.png)  | Pakistan       | Ania        |
 | ![Palau](https://github.com/avreference/terrabandiere/blob/main/ania/palau.png)  | Palau       | Ania        |
 | ![Palestine](https://github.com/avreference/terrabandiere/blob/main/ania/palestine.png)  | Palestine       | Ania        |
 | ![Papua New Guinea](https://github.com/avreference/terrabandiere/blob/main/ania/papuanewguinea.png)  | Papua New Guinea       | Ania        |
+| ![Pennsylvania](https://github.com/avreference/terrabandiere/blob/main/usa/pennsylvania.png)  | Pennsylvania       | USA        |
 | ![Philippines](https://github.com/avreference/terrabandiere/blob/main/ania/philippines.png)  | Philippines       | Ania        |
 | ![Poland](https://github.com/avreference/terrabandiere/blob/main/europe/poland.png)  | Poland       | Europe        |
 | ![Portugal](https://github.com/avreference/terrabandiere/blob/main/europe/portugal.png)  | Portugal       | Europe        |
+| ![Puerto Rico](https://github.com/avreference/terrabandiere/blob/main/usa/puertorico.png)  | Puerto Rico       | USA        |
 | ![Qatar](https://github.com/avreference/terrabandiere/blob/main/ania/qatar.png)  | Qatar       | Ania        |
 | ![Republic of the Congo](https://github.com/avreference/terrabandiere/blob/main/africa/republicofthecongo.png)  | Republic of the Congo       | Africa        |
+| ![Rhode Island](https://github.com/avreference/terrabandiere/blob/main/usa/rhodeisland.png)  | Rhode Island       | USA        |
 | ![Romania](https://github.com/avreference/terrabandiere/blob/main/europe/romania.png)  | Romania       | Europe        |
 | ![Russia](https://github.com/avreference/terrabandiere/blob/main/europe/russia.png)  | Russia       | Europe        |
 | ![Rwanda](https://github.com/avreference/terrabandiere/blob/main/africa/rwanda.png)  | Rwanda       | Africa        |
 | ![Samoa](https://github.com/avreference/terrabandiere/blob/main/ania/samoa.png)  | Samoa       | Ania        |
+| ![Samoa](https://github.com/avreference/terrabandiere/blob/main/usa/samoa.png)  | Samoa       | USA        |
 | ![San Marino](https://github.com/avreference/terrabandiere/blob/main/europe/sanmarino.png)  | San Marino       | Europe        |
 | ![Saotome and Principe](https://github.com/avreference/terrabandiere/blob/main/africa/saotomeandprincipe.png)  | Saotome and Principe      | Africa        |
 | ![Saudi Arabia](https://github.com/avreference/terrabandiere/blob/main/ania/saudiarabia.png)  | Saudi Arabia       | Ania        |
@@ -176,7 +182,9 @@ This readme.md file is a work-in-progress. Last update 07.11.2020
 | ![Solomon](https://github.com/avreference/terrabandiere/blob/main/ania/solomon.png)  | Solomon       | Ania        |
 | ![Somalia](https://github.com/avreference/terrabandiere/blob/main/africa/somalia.png)  | Somalia       | Africa        |
 | ![South Africa](https://github.com/avreference/terrabandiere/blob/main/africa/southafrica.png)  | South Africa       | Africa        |
+| ![South Carolina](https://github.com/avreference/terrabandiere/blob/main/usa/southcarolina.png)  | South Carolina       | USA        |
 | ![South Corea](https://github.com/avreference/terrabandiere/blob/main/ania/southcorea.png)  | South Corea       | Ania        |
+| ![South Dakota](https://github.com/avreference/terrabandiere/blob/main/usa/southdakota.png)  | South Dakota       | USA        |
 | ![South Sudan](https://github.com/avreference/terrabandiere/blob/main/africa/southsudan.png)  | South Sudan       | Africa        |
 | ![Spain](https://github.com/avreference/terrabandiere/blob/main/europe/spain.png)  | Spain       | Europe        |
 | ![Srilanka](https://github.com/avreference/terrabandiere/blob/main/ania/srilanka.png)  | Srilanka       | Ania        |
@@ -186,6 +194,8 @@ This readme.md file is a work-in-progress. Last update 07.11.2020
 | ![Syria](https://github.com/avreference/terrabandiere/blob/main/ania/syria.png)  | Syria       | Ania        |
 | ![Tajikistan](https://github.com/avreference/terrabandiere/blob/main/ania/tajikistan.png)  | Tajikistan       | Ania        |
 | ![Tanzania](https://github.com/avreference/terrabandiere/blob/main/africa/tanzania.png)  | Tanzania       | Africa        |
+| ![Tennessee](https://github.com/avreference/terrabandiere/blob/main/usa/tennessee.png)  | Tennessee       | USA        |
+| ![Texas](https://github.com/avreference/terrabandiere/blob/main/usa/texas.png)  | Texas       | USA        |
 | ![Thailand](https://github.com/avreference/terrabandiere/blob/main/ania/thailand.png)  | Thailand       | Ania        |
 | ![Togo](https://github.com/avreference/terrabandiere/blob/main/africa/togo.png)  | Togo       | Africa        |
 | ![Tonga](https://github.com/avreference/terrabandiere/blob/main/ania/tonga.png)  | Tonga       | Ania        |
@@ -197,10 +207,18 @@ This readme.md file is a work-in-progress. Last update 07.11.2020
 | ![Uganda](https://github.com/avreference/terrabandiere/blob/main/africa/uganda.png)  | Uganda       | Africa        |
 | ![United Arab Emirates](https://github.com/avreference/terrabandiere/blob/main/ania/unitedarabemirates.png)  | United Arab Emirates       | Ania        |
 | ![United Kingdom](https://github.com/avreference/terrabandiere/blob/main/europe/unitedkingdom.png)  | United Kingdom       | Europe        |
+| ![Utah](https://github.com/avreference/terrabandiere/blob/main/usa/utah.png)  | Utah       | USA        |
 | ![Uzbekistan](https://github.com/avreference/terrabandiere/blob/main/ania/uzbekistan.png)  | Uzbekistan       | Ania        |
 | ![Vanuatu](https://github.com/avreference/terrabandiere/blob/main/ania/vanuatu.png)  | Vanuatu       | Ania        |
 | ![Vatican City](https://github.com/avreference/terrabandiere/blob/main/europe/vaticancity.png)  | Vatican City       | Europe        |
+| ![Vermont](https://github.com/avreference/terrabandiere/blob/main/usa/vermont.png)  | Vermont       | USA        |
 | ![Vietnam](https://github.com/avreference/terrabandiere/blob/main/ania/vietnam.png)  | Vietnam       | Ania        |
+| ![Virgin Islands](https://github.com/avreference/terrabandiere/blob/main/usa/virginislands.png)  | Virgin Islands       | USA        |
+| ![Virginia](https://github.com/avreference/terrabandiere/blob/main/usa/virginia.png)  | Virginia       | USA        |
+| ![Washington](https://github.com/avreference/terrabandiere/blob/main/usa/washington.png)  | Washington       | USA        |
+| ![West Virginia](https://github.com/avreference/terrabandiere/blob/main/usa/westvirginia.png)  | West Virginia       | USA        |
+| ![Wisconsin](https://github.com/avreference/terrabandiere/blob/main/usa/wisconsin.png)  | Wisconsin       | USA        |
+| ![Wyoming](https://github.com/avreference/terrabandiere/blob/main/usa/wyoming.png)  | Wyoming       | USA        |
 | ![Yemen](https://github.com/avreference/terrabandiere/blob/main/ania/yemen.png)  | Yemen       | Ania        |
 | ![Zambia](https://github.com/avreference/terrabandiere/blob/main/africa/zambia.png)  | Zambia       | Africa        |
 | ![Zimbabwe](https://github.com/avreference/terrabandiere/blob/main/africa/zimbabwe.png)  | Zimbabwe       | Africa        |
