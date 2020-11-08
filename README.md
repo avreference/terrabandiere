@@ -87,54 +87,54 @@ Last update 07.11.2020
 | ![Gambia](https://github.com/avreference/terrabandiere/blob/main/africa/gambia.png)  | GMB | Gambia       | Africa        |
 | ![Genderfluid](https://github.com/avreference/terrabandiere/blob/main/special/genderfluid.png)  |     | Genderfluid       | Special        |
 | ![Genderqueer](https://github.com/avreference/terrabandiere/blob/main/special/genderqueer.png)  |     | Genderqueer       | Special        |
-| ![Georgia](https://github.com/avreference/terrabandiere/blob/main/europe/georgia.png)  | GRO | Georgia       | Europe        |
+| ![Georgia](https://github.com/avreference/terrabandiere/blob/main/europe/georgia.png)  | GEO | Georgia       | Europe        |
 | ![Georgia](https://github.com/avreference/terrabandiere/blob/main/usa/georgia.png)  |     | Georgia       | USA        |
 | ![Germany](https://github.com/avreference/terrabandiere/blob/main/europe/germany.png)  | DEU | Germany       | Europe        |
 | ![Ghana](https://github.com/avreference/terrabandiere/blob/main/africa/ghana.png)  | GHA | Ghana       | Africa        |
 | ![Greece](https://github.com/avreference/terrabandiere/blob/main/europe/greece.png)  | GRC | Greece       | Europe        |
 | ![Greenland](https://github.com/avreference/terrabandiere/blob/main/special/greenland.png)  | GRL | Greenland       | Special        |
-| ![Guam](https://github.com/avreference/terrabandiere/blob/main/usa/guam.png)  |     | Guam       | USA        |
-| ![Guatemala](https://github.com/avreference/terrabandiere/blob/main/special/guatemala.png)  |     | Guatemala       | Special        |
-| ![Guinea](https://github.com/avreference/terrabandiere/blob/main/africa/guinea.png)  |     | Guinea       | Africa        |
-| ![Guinea Bissau](https://github.com/avreference/terrabandiere/blob/main/africa/guineabissau.png)  |     | Guinea Bissau       | Africa        |
-| ![Guyana](https://github.com/avreference/terrabandiere/blob/main/special/guyana.png)  |     | Guyana       | Special        |
-| ![Haiti](https://github.com/avreference/terrabandiere/blob/main/special/haiti.png)  |     | Haiti       | Special        |
+| ![Guam](https://github.com/avreference/terrabandiere/blob/main/usa/guam.png)  | GUM | Guam       | USA        |
+| ![Guatemala](https://github.com/avreference/terrabandiere/blob/main/special/guatemala.png)  | GTM | Guatemala       | Special        |
+| ![Guinea](https://github.com/avreference/terrabandiere/blob/main/africa/guinea.png)  | GIN | Guinea       | Africa        |
+| ![Guinea Bissau](https://github.com/avreference/terrabandiere/blob/main/africa/guineabissau.png)  | GNB | Guinea Bissau       | Africa        |
+| ![Guyana](https://github.com/avreference/terrabandiere/blob/main/special/guyana.png)  | GUY | Guyana       | Special        |
+| ![Haiti](https://github.com/avreference/terrabandiere/blob/main/special/haiti.png)  | HTI | Haiti       | Special        |
 | ![Hawaii](https://github.com/avreference/terrabandiere/blob/main/usa/hawaii.png)  |     | Hawaii       | USA        |
-| ![Honduras](https://github.com/avreference/terrabandiere/blob/main/special/honduras.png)  |     | Honduras       | Special        |
-| ![Hungary](https://github.com/avreference/terrabandiere/blob/main/europe/hungary.png)  |     | Hungary       | Europe        |
-| ![Iceland](https://github.com/avreference/terrabandiere/blob/main/europe/iceland.png)  |     | Iceland       | Europe        |
+| ![Honduras](https://github.com/avreference/terrabandiere/blob/main/special/honduras.png)  | HND | Honduras       | Special        |
+| ![Hungary](https://github.com/avreference/terrabandiere/blob/main/europe/hungary.png)  | HUN | Hungary       | Europe        |
+| ![Iceland](https://github.com/avreference/terrabandiere/blob/main/europe/iceland.png)  | ISL | Iceland       | Europe        |
 | ![Idaho](https://github.com/avreference/terrabandiere/blob/main/usa/idaho.png)  |     | Idaho       | USA        |
 | ![illinois](https://github.com/avreference/terrabandiere/blob/main/usa/illinois.png)  |     | Illinois       | USA        |
-| ![India](https://github.com/avreference/terrabandiere/blob/main/ania/india.png)  |     | India       | Ania        |
+| ![India](https://github.com/avreference/terrabandiere/blob/main/ania/india.png)  | IND | India       | Ania        |
 | ![Indiana](https://github.com/avreference/terrabandiere/blob/main/usa/indiana.png)  |     | Indiana       | USA        |
-| ![Indonesia](https://github.com/avreference/terrabandiere/blob/main/ania/indonesia.png)  |     | Indonesia       | Ania        |
+| ![Indonesia](https://github.com/avreference/terrabandiere/blob/main/ania/indonesia.png)  | IDN | Indonesia       | Ania        |
 | ![Intersexuality](https://github.com/avreference/terrabandiere/blob/main/special/intersexuality.png)  |     | Intersexuality       | Special        |
 | ![Iowa](https://github.com/avreference/terrabandiere/blob/main/usa/iowa.png)  |     | Iowa       | USA        |
-| ![Iran](https://github.com/avreference/terrabandiere/blob/main/ania/iran.png)  |     | Iran       | Ania        |
-| ![Iraq](https://github.com/avreference/terrabandiere/blob/main/ania/iraq.png)  |     | Iraq       | Ania        |
-| ![Ireland](https://github.com/avreference/terrabandiere/blob/main/europe/ireland.png)  |     | Ireland       | Europe        |
-| ![Israel](https://github.com/avreference/terrabandiere/blob/main/ania/israel.png)  |     | Israel       | Ania        |
-| ![Italy](https://github.com/avreference/terrabandiere/blob/main/europe/italy.png)  |     | Italy       | Europe        |
+| ![Iran](https://github.com/avreference/terrabandiere/blob/main/ania/iran.png)  | IRN | Iran       | Ania        |
+| ![Iraq](https://github.com/avreference/terrabandiere/blob/main/ania/iraq.png)  | IRQ | Iraq       | Ania        |
+| ![Ireland](https://github.com/avreference/terrabandiere/blob/main/europe/ireland.png)  | IRL | Ireland       | Europe        |
+| ![Israel](https://github.com/avreference/terrabandiere/blob/main/ania/israel.png)  | ISR | Israel       | Ania        |
+| ![Italy](https://github.com/avreference/terrabandiere/blob/main/europe/italy.png)  | ITA | Italy       | Europe        |
 | ![Ivory Coast](https://github.com/avreference/terrabandiere/blob/main/africa/ivorycoast.png)  |     | Ivory Coast       | Africa        |
-| ![Jamaica](https://github.com/avreference/terrabandiere/blob/main/special/jamaica.png)  |     | Jamaica       | Special        |
-| ![Japan](https://github.com/avreference/terrabandiere/blob/main/ania/japan.png)  |     | Japan       | Ania        |
-| ![Jordan](https://github.com/avreference/terrabandiere/blob/main/ania/jordan.png)  |     | Jordan       | Ania        |
+| ![Jamaica](https://github.com/avreference/terrabandiere/blob/main/special/jamaica.png)  | JAM | Jamaica       | Special        |
+| ![Japan](https://github.com/avreference/terrabandiere/blob/main/ania/japan.png)  | JPN | Japan       | Ania        |
+| ![Jordan](https://github.com/avreference/terrabandiere/blob/main/ania/jordan.png)  | JOR | Jordan       | Ania        |
 | ![Kansas](https://github.com/avreference/terrabandiere/blob/main/usa/kansas.png)  |     | Kansas       | USA        |
-| ![Kazakhstan](https://github.com/avreference/terrabandiere/blob/main/europe/kazakhstan.png)  |     | Kazakhstan       | Europe        |
-| ![Kenia](https://github.com/avreference/terrabandiere/blob/main/africa/kenia.png)  |     | Kenia       | Africa        |
+| ![Kazakhstan](https://github.com/avreference/terrabandiere/blob/main/europe/kazakhstan.png)  | KAZ | Kazakhstan       | Europe        |
+| ![Kenya](https://github.com/avreference/terrabandiere/blob/main/africa/kenia.png)  | KEN | Kenya       | Africa        |
 | ![Kentucky](https://github.com/avreference/terrabandiere/blob/main/usa/kentucky.png)  |     | Kentucky       | USA        |
-| ![Kiribati](https://github.com/avreference/terrabandiere/blob/main/ania/kiribati.png)  |     | Kiribati       | Ania        |
-| ![Kuwait](https://github.com/avreference/terrabandiere/blob/main/ania/kuwait.png)  |     | Kuwait       | Ania        |
-| ![Kyrgyzstan](https://github.com/avreference/terrabandiere/blob/main/ania/kyrgyzstan.png)  |     | Kyrgyzstan       | Ania        |
-| ![Laos](https://github.com/avreference/terrabandiere/blob/main/ania/laos.png)  |     | Laos       | Ania        |
+| ![Kiribati](https://github.com/avreference/terrabandiere/blob/main/ania/kiribati.png)  | KIR | Kiribati       | Ania        |
+| ![Kuwait](https://github.com/avreference/terrabandiere/blob/main/ania/kuwait.png)  | KWT | Kuwait       | Ania        |
+| ![Kyrgyzstan](https://github.com/avreference/terrabandiere/blob/main/ania/kyrgyzstan.png)  | KGZ | Kyrgyzstan       | Ania        |
+| ![Laos](https://github.com/avreference/terrabandiere/blob/main/ania/laos.png)  | LAO | Laos       | Ania        |
 | ![Lapponia](https://github.com/avreference/terrabandiere/blob/main/special/lapponia.png)  |     | Lapponia       | Special        |
-| ![Latvia](https://github.com/avreference/terrabandiere/blob/main/europe/latvia.png)  |     | Latvia       | Europe        |
-| ![Lebanon](https://github.com/avreference/terrabandiere/blob/main/ania/lebanon.png)  |     | Lebanon       | Ania        |
+| ![Latvia](https://github.com/avreference/terrabandiere/blob/main/europe/latvia.png)  | LVA | Latvia       | Europe        |
+| ![Lebanon](https://github.com/avreference/terrabandiere/blob/main/ania/lebanon.png)  | LBN | Lebanon       | Ania        |
 | ![Lesbian](https://github.com/avreference/terrabandiere/blob/main/special/lesbian.png)  |     | Lesbian       | Special        |
-| ![Lesotho](https://github.com/avreference/terrabandiere/blob/main/africa/lesotho.png)  |     | Lesotho       | Africa        |
-| ![Liberia](https://github.com/avreference/terrabandiere/blob/main/africa/liberia.png)  |     | Liberia       | Africa        |
-| ![Libya](https://github.com/avreference/terrabandiere/blob/main/africa/libya.png)  |     | Libya       | Africa        |
-| ![Liechtenstein](https://github.com/avreference/terrabandiere/blob/main/europe/liechtenstein.png)  |     | Liechtenstein       | Europe        |
+| ![Lesotho](https://github.com/avreference/terrabandiere/blob/main/africa/lesotho.png)  | LSO | Lesotho       | Africa        |
+| ![Liberia](https://github.com/avreference/terrabandiere/blob/main/africa/liberia.png)  | LBR | Liberia       | Africa        |
+| ![Libya](https://github.com/avreference/terrabandiere/blob/main/africa/libya.png)  | LBY | Libya       | Africa        |
+| ![Liechtenstein](https://github.com/avreference/terrabandiere/blob/main/europe/liechtenstein.png)  | LIE | Liechtenstein       | Europe        |
 | ![Lithuania](https://github.com/avreference/terrabandiere/blob/main/europe/lithuania.png)  |     | Lithuania       | Europe        |
 | ![Louisiana](https://github.com/avreference/terrabandiere/blob/main/usa/louisiana.png)  |     | Louisiana       | USA        |
 | ![Luxembourg](https://github.com/avreference/terrabandiere/blob/main/europe/luxembourg.png)  |     | Luxembourg       | Europe        |
@@ -263,7 +263,7 @@ Last update 07.11.2020
 | ![Utah](https://github.com/avreference/terrabandiere/blob/main/usa/utah.png)  |     | Utah       | USA        |
 | ![Uzbekistan](https://github.com/avreference/terrabandiere/blob/main/ania/uzbekistan.png)  |     | Uzbekistan       | Ania        |
 | ![Vanuatu](https://github.com/avreference/terrabandiere/blob/main/ania/vanuatu.png)  |     | Vanuatu       | Ania        |
-| ![Vatican City](https://github.com/avreference/terrabandiere/blob/main/europe/vaticancity.png)  |     | Vatican City       | Europe        |
+| ![Vatican City](https://github.com/avreference/terrabandiere/blob/main/europe/vaticancity.png)  | VAT | Vatican City       | Europe        |
 | ![Venezuela](https://github.com/avreference/terrabandiere/blob/main/special/venezuela.png)  |     | Venezuela       | Special        |
 | ![Vermont](https://github.com/avreference/terrabandiere/blob/main/usa/vermont.png)  |     | Vermont       | USA        |
 | ![Vietnam](https://github.com/avreference/terrabandiere/blob/main/ania/vietnam.png)  |     | Vietnam       | Ania        |
