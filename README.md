@@ -69,12 +69,12 @@ Last update 07.11.2020
 | ![Djibouti](https://github.com/avreference/terrabandiere/blob/main/africa/djibouti.png)  | DJI | Djibouti       | Africa        |
 | ![Dominica](https://github.com/avreference/terrabandiere/blob/main/special/dominica.png)  | DMA | Dominica       | Special        |
 | ![Dominican Republic](https://github.com/avreference/terrabandiere/blob/main/special/dominicanrepublic.png)  | DOM | Dominican Republic       | Special        |
+| ![East Timor](https://github.com/avreference/terrabandiere/blob/main/ania/easttimor.png)  |     | East Timor       | Ania        |
 | ![Ecuador](https://github.com/avreference/terrabandiere/blob/main/special/ecuador.png)  | ECU | Ecuador       | Special        |
 | ![Egypt](https://github.com/avreference/terrabandiere/blob/main/africa/egypt.png)  | EGY | Egypt       | Africa        |
 | ![El Salvador](https://github.com/avreference/terrabandiere/blob/main/special/elsalvador.png)  | SLV | El Salvador       | Special        |
 | ![Equatorial Guinea](https://github.com/avreference/terrabandiere/blob/main/africa/equatorialguinea.png)  | GNQ | Equatorial Guinea       | Africa        |
 | ![Eritrea](https://github.com/avreference/terrabandiere/blob/main/africa/eritrea.png)  | ERI | Eritrea       | Africa        |
-| ![East Timor](https://github.com/avreference/terrabandiere/blob/main/ania/easttimor.png)  |     | East Timor       | Ania        |
 | ![Estonia](https://github.com/avreference/terrabandiere/blob/main/europe/estonia.png)  | EST | Estonia       | Europe        |
 | ![Eswatini](https://github.com/avreference/terrabandiere/blob/main/africa/eswatini.png)  | SWZ | Eswatini       | Africa        |
 | ![Ethiopia](https://github.com/avreference/terrabandiere/blob/main/africa/ethiopia.png)  | ETH | Ethiopia       | Africa        |
@@ -180,7 +180,7 @@ Last update 07.11.2020
 | ![Nigeria](https://github.com/avreference/terrabandiere/blob/main/africa/nigeria.png)  | NGA | Nigeria       | Africa        |
 | ![Non-binary](https://github.com/avreference/terrabandiere/blob/main/special/non-binary.png)  |     | Non-binary       | Special        |
 | ![North Carolina](https://github.com/avreference/terrabandiere/blob/main/usa/northcarolina.png)  |     | North Carolina       | USA        |
-| ![North Corea](https://github.com/avreference/terrabandiere/blob/main/ania/northcorea.png)  |     | North Corea       | Ania        |
+| ![North Corea](https://github.com/avreference/terrabandiere/blob/main/ania/northcorea.png)  | PRK | North Corea       | Ania        |
 | ![North Dakota](https://github.com/avreference/terrabandiere/blob/main/usa/northdakota.png)  |     | North Dakota       | USA        |
 | ![North Macedonia](https://github.com/avreference/terrabandiere/blob/main/europe/northmacedonia.png)  | MKD | North Macedonia       | Europe        |
 | ![Northen Mariana Islands](https://github.com/avreference/terrabandiere/blob/main/usa/northenmarianaislands.png)  | MNP | Northen Mariana Islands       | USA        |
@@ -204,75 +204,75 @@ Last update 07.11.2020
 | ![Poland](https://github.com/avreference/terrabandiere/blob/main/europe/poland.png)  | POL | Poland       | Europe        |
 | ![Polysexuality](https://github.com/avreference/terrabandiere/blob/main/special/polysexuality.png)  |     | Polysexuality       | Special        |
 | ![Portugal](https://github.com/avreference/terrabandiere/blob/main/europe/portugal.png)  | PRT | Portugal       | Europe        |
-| ![Puerto Rico](https://github.com/avreference/terrabandiere/blob/main/usa/puertorico.png)  |     | Puerto Rico       | USA        |
-| ![Qatar](https://github.com/avreference/terrabandiere/blob/main/ania/qatar.png)  |     | Qatar       | Ania        |
+| ![Puerto Rico](https://github.com/avreference/terrabandiere/blob/main/usa/puertorico.png)  | PRI | Puerto Rico       | USA        |
+| ![Qatar](https://github.com/avreference/terrabandiere/blob/main/ania/qatar.png)  | QAT | Qatar       | Ania        |
 | ![Rainbow](https://github.com/avreference/terrabandiere/blob/main/special/rainbow.png)  |     | Rainbow       | Special        |
 | ![Republic of the Congo](https://github.com/avreference/terrabandiere/blob/main/africa/republicofthecongo.png)  | COG | Republic of the Congo       | Africa        |
 | ![Rhode Island](https://github.com/avreference/terrabandiere/blob/main/usa/rhodeisland.png)  |     | Rhode Island       | USA        |
-| ![Romania](https://github.com/avreference/terrabandiere/blob/main/europe/romania.png)  |     | Romania       | Europe        |
-| ![Russia](https://github.com/avreference/terrabandiere/blob/main/europe/russia.png)  |     | Russia       | Europe        |
-| ![Rwanda](https://github.com/avreference/terrabandiere/blob/main/africa/rwanda.png)  |     | Rwanda       | Africa        |
-| ![Saint Vincent](https://github.com/avreference/terrabandiere/blob/main/special/saintvincent.png)  |     | Saint Vincent       | Special        |
-| ![Samoa](https://github.com/avreference/terrabandiere/blob/main/ania/samoa.png)  |     | Samoa       | Ania        |
+| ![Romania](https://github.com/avreference/terrabandiere/blob/main/europe/romania.png)  | ROU | Romania       | Europe        |
+| ![Russia](https://github.com/avreference/terrabandiere/blob/main/europe/russia.png)  | RUS | Russia       | Europe        |
+| ![Rwanda](https://github.com/avreference/terrabandiere/blob/main/africa/rwanda.png)  | RWA | Rwanda       | Africa        |
+| ![Saint Vincent](https://github.com/avreference/terrabandiere/blob/main/special/saintvincent.png)  | VCT | Saint Vincent       | Special        |
+| ![Samoa](https://github.com/avreference/terrabandiere/blob/main/ania/samoa.png)  | WSM | Samoa       | Ania        |
 | ![Samoa](https://github.com/avreference/terrabandiere/blob/main/usa/samoa.png)  | ASM | Samoa       | USA        |
-| ![San Marino](https://github.com/avreference/terrabandiere/blob/main/europe/sanmarino.png)  |     | San Marino       | Europe        |
-| ![Saotome and Principe](https://github.com/avreference/terrabandiere/blob/main/africa/saotomeandprincipe.png)  |     | Saotome and Principe      | Africa        |
+| ![San Marino](https://github.com/avreference/terrabandiere/blob/main/europe/sanmarino.png)  | SMR | San Marino       | Europe        |
+| ![Sao Tome and Principe](https://github.com/avreference/terrabandiere/blob/main/africa/saotomeandprincipe.png)  | STP | Sao Tome and Principe      | Africa        |
 | ![Sardinia](https://github.com/avreference/terrabandiere/blob/main/special/sardinia.png)  |     | Sardinia       | Special        |
-| ![Saudi Arabia](https://github.com/avreference/terrabandiere/blob/main/ania/saudiarabia.png)  |     | Saudi Arabia       | Ania        |
-| ![Senegal](https://github.com/avreference/terrabandiere/blob/main/africa/senegal.png)  |     | Senegal       | Africa        |
-| ![Serbia](https://github.com/avreference/terrabandiere/blob/main/europe/serbia.png)  |     | Serbia       | Europe        |
-| ![Seychelles](https://github.com/avreference/terrabandiere/blob/main/africa/seychelles.png)  |     | Seychelles       | Africa        |
-| ![Sierra Leone](https://github.com/avreference/terrabandiere/blob/main/africa/sierraleone.png)  |     | Sierra Leone       | Africa        |
-| ![Singapore](https://github.com/avreference/terrabandiere/blob/main/ania/singapore.png)  |     | Singapore       | Ania        |
-| ![Slovakia](https://github.com/avreference/terrabandiere/blob/main/europe/slovakia.png)  |     | Slovakia       | Europe        |
-| ![Slovenia](https://github.com/avreference/terrabandiere/blob/main/europe/slovenia.png)  |     | Slovenia       | Europe        |
-| ![Solomon](https://github.com/avreference/terrabandiere/blob/main/ania/solomon.png)  |     | Solomon       | Ania        |
-| ![Somalia](https://github.com/avreference/terrabandiere/blob/main/africa/somalia.png)  |     | Somalia       | Africa        |
-| ![South Africa](https://github.com/avreference/terrabandiere/blob/main/africa/southafrica.png)  |     | South Africa       | Africa        |
+| ![Saudi Arabia](https://github.com/avreference/terrabandiere/blob/main/ania/saudiarabia.png)  | SAU | Saudi Arabia       | Ania        |
+| ![Senegal](https://github.com/avreference/terrabandiere/blob/main/africa/senegal.png)  | SEN | Senegal       | Africa        |
+| ![Serbia](https://github.com/avreference/terrabandiere/blob/main/europe/serbia.png)  | SRB | Serbia       | Europe        |
+| ![Seychelles](https://github.com/avreference/terrabandiere/blob/main/africa/seychelles.png)  | SYC | Seychelles       | Africa        |
+| ![Sierra Leone](https://github.com/avreference/terrabandiere/blob/main/africa/sierraleone.png)  | SLE | Sierra Leone       | Africa        |
+| ![Singapore](https://github.com/avreference/terrabandiere/blob/main/ania/singapore.png)  | SGP | Singapore       | Ania        |
+| ![Slovakia](https://github.com/avreference/terrabandiere/blob/main/europe/slovakia.png)  | SVK | Slovakia       | Europe        |
+| ![Slovenia](https://github.com/avreference/terrabandiere/blob/main/europe/slovenia.png)  | SVN | Slovenia       | Europe        |
+| ![Solomon](https://github.com/avreference/terrabandiere/blob/main/ania/solomon.png)  | SLB | Solomon       | Ania        |
+| ![Somalia](https://github.com/avreference/terrabandiere/blob/main/africa/somalia.png)  | SOM | Somalia       | Africa        |
+| ![South Africa](https://github.com/avreference/terrabandiere/blob/main/africa/southafrica.png)  | ZAF | South Africa       | Africa        |
 | ![South Carolina](https://github.com/avreference/terrabandiere/blob/main/usa/southcarolina.png)  |     | South Carolina       | USA        |
-| ![South Corea](https://github.com/avreference/terrabandiere/blob/main/ania/southcorea.png)  |     | South Corea       | Ania        |
+| ![South Corea](https://github.com/avreference/terrabandiere/blob/main/ania/southcorea.png)  | KOR | South Corea       | Ania        |
 | ![South Dakota](https://github.com/avreference/terrabandiere/blob/main/usa/southdakota.png)  |     | South Dakota       | USA        |
-| ![South Sudan](https://github.com/avreference/terrabandiere/blob/main/africa/southsudan.png)  |     | South Sudan       | Africa        |
-| ![Spain](https://github.com/avreference/terrabandiere/blob/main/europe/spain.png)  |     | Spain       | Europe        |
-| ![Srilanka](https://github.com/avreference/terrabandiere/blob/main/ania/srilanka.png)  |     | Srilanka       | Ania        |
-| ![Sudan](https://github.com/avreference/terrabandiere/blob/main/africa/sudan.png)  |     | Sudan       | Africa        |
-| ![Suriname](https://github.com/avreference/terrabandiere/blob/main/special/suriname.png)  |     | Suriname       | Special        |
-| ![Sweden](https://github.com/avreference/terrabandiere/blob/main/europe/sweden.png)  |     | Sweden       | Europe        |
-| ![Switzerland](https://github.com/avreference/terrabandiere/blob/main/europe/switzerland.png)  |     | Switzerland       | Europe        |
-| ![Syria](https://github.com/avreference/terrabandiere/blob/main/ania/syria.png)  |     | Syria       | Ania        |
-| ![Tajikistan](https://github.com/avreference/terrabandiere/blob/main/ania/tajikistan.png)  |     | Tajikistan       | Ania        |
-| ![Tanzania](https://github.com/avreference/terrabandiere/blob/main/africa/tanzania.png)  |     | Tanzania       | Africa        |
+| ![South Sudan](https://github.com/avreference/terrabandiere/blob/main/africa/southsudan.png)  | SSD | South Sudan       | Africa        |
+| ![Spain](https://github.com/avreference/terrabandiere/blob/main/europe/spain.png)  | ESP | Spain       | Europe        |
+| ![Srilanka](https://github.com/avreference/terrabandiere/blob/main/ania/srilanka.png)  | LKA | Srilanka       | Ania        |
+| ![Sudan](https://github.com/avreference/terrabandiere/blob/main/africa/sudan.png)  | SDN | Sudan       | Africa        |
+| ![Suriname](https://github.com/avreference/terrabandiere/blob/main/special/suriname.png)  | SUR | Suriname       | Special        |
+| ![Sweden](https://github.com/avreference/terrabandiere/blob/main/europe/sweden.png)  | SWE | Sweden       | Europe        |
+| ![Switzerland](https://github.com/avreference/terrabandiere/blob/main/europe/switzerland.png)  | CHE | Switzerland       | Europe        |
+| ![Syria](https://github.com/avreference/terrabandiere/blob/main/ania/syria.png)  | SYR | Syria       | Ania        |
+| ![Tajikistan](https://github.com/avreference/terrabandiere/blob/main/ania/tajikistan.png)  | TJK | Tajikistan       | Ania        |
+| ![Tanzania](https://github.com/avreference/terrabandiere/blob/main/africa/tanzania.png)  | TZA | Tanzania       | Africa        |
 | ![Tennessee](https://github.com/avreference/terrabandiere/blob/main/usa/tennessee.png)  |     | Tennessee       | USA        |
 | ![Texas](https://github.com/avreference/terrabandiere/blob/main/usa/texas.png)  |     | Texas       | USA        |
-| ![Thailand](https://github.com/avreference/terrabandiere/blob/main/ania/thailand.png)  |     | Thailand       | Ania        |
-| ![Togo](https://github.com/avreference/terrabandiere/blob/main/africa/togo.png)  |     | Togo       | Africa        |
-| ![Tonga](https://github.com/avreference/terrabandiere/blob/main/ania/tonga.png)  |     | Tonga       | Ania        |
+| ![Thailand](https://github.com/avreference/terrabandiere/blob/main/ania/thailand.png)  | THA | Thailand       | Ania        |
+| ![Togo](https://github.com/avreference/terrabandiere/blob/main/africa/togo.png)  | TGO | Togo       | Africa        |
+| ![Tonga](https://github.com/avreference/terrabandiere/blob/main/ania/tonga.png)  | TON | Tonga       | Ania        |
 | ![Transgender](https://github.com/avreference/terrabandiere/blob/main/special/transgender.png)  |     | Transgender       | Special        |
-| ![Trinidad and Tobago](https://github.com/avreference/terrabandiere/blob/main/special/trinidadtobago.png)  |     | Trinidad and Tobago       | Special        |
-| ![Tunisia](https://github.com/avreference/terrabandiere/blob/main/africa/tunisia.png)  |     | Tunisia       | Africa        |
-| ![Turkey](https://github.com/avreference/terrabandiere/blob/main/europe/turkey.png)  |     | Turkey       | Europe        |
-| ![Turkmenistan](https://github.com/avreference/terrabandiere/blob/main/ania/turkmenistan.png)  |     | Turkmenistan       | Ania        |
-| ![Tuvalu](https://github.com/avreference/terrabandiere/blob/main/ania/tuvalu.png)  |     | Tuvalu       | Ania        |
-| ![Ukraine](https://github.com/avreference/terrabandiere/blob/main/europe/ukraine.png)  |     | Ukraine       | Europe        |
-| ![Uganda](https://github.com/avreference/terrabandiere/blob/main/africa/uganda.png)  |     | Uganda       | Africa        |
+| ![Trinidad and Tobago](https://github.com/avreference/terrabandiere/blob/main/special/trinidadtobago.png)  | TTO | Trinidad and Tobago       | Special        |
+| ![Tunisia](https://github.com/avreference/terrabandiere/blob/main/africa/tunisia.png)  | TUN | Tunisia       | Africa        |
+| ![Turkey](https://github.com/avreference/terrabandiere/blob/main/europe/turkey.png)  | TUR | Turkey       | Europe        |
+| ![Turkmenistan](https://github.com/avreference/terrabandiere/blob/main/ania/turkmenistan.png)  | TKM | Turkmenistan       | Ania        |
+| ![Tuvalu](https://github.com/avreference/terrabandiere/blob/main/ania/tuvalu.png)  | TUV | Tuvalu       | Ania        |
+| ![Ukraine](https://github.com/avreference/terrabandiere/blob/main/europe/ukraine.png)  | UKR | Ukraine       | Europe        |
+| ![Uganda](https://github.com/avreference/terrabandiere/blob/main/africa/uganda.png)  | UGA | Uganda       | Africa        |
 | ![Unicef](https://github.com/avreference/terrabandiere/blob/main/special/unicef.png)  |     | UNICEF       | Special        |
-| ![United Arab Emirates](https://github.com/avreference/terrabandiere/blob/main/ania/unitedarabemirates.png)  |     | United Arab Emirates       | Ania        |
-| ![United Kingdom](https://github.com/avreference/terrabandiere/blob/main/europe/unitedkingdom.png)  |     | United Kingdom       | Europe        |
-| ![Uruguay](https://github.com/avreference/terrabandiere/blob/main/special/uruguay.png)  |     | Uruguay       | Special        |
-| ![USA](https://github.com/avreference/terrabandiere/blob/main/special/usa.png)  |     | USA       | Special        |
+| ![United Arab Emirates](https://github.com/avreference/terrabandiere/blob/main/ania/unitedarabemirates.png)  | ARE | United Arab Emirates       | Ania        |
+| ![United Kingdom](https://github.com/avreference/terrabandiere/blob/main/europe/unitedkingdom.png)  | GBR | United Kingdom       | Europe        |
+| ![Uruguay](https://github.com/avreference/terrabandiere/blob/main/special/uruguay.png)  | URY | Uruguay       | Special        |
+| ![USA](https://github.com/avreference/terrabandiere/blob/main/special/usa.png)  | USA | USA       | Special        |
 | ![Utah](https://github.com/avreference/terrabandiere/blob/main/usa/utah.png)  |     | Utah       | USA        |
-| ![Uzbekistan](https://github.com/avreference/terrabandiere/blob/main/ania/uzbekistan.png)  |     | Uzbekistan       | Ania        |
-| ![Vanuatu](https://github.com/avreference/terrabandiere/blob/main/ania/vanuatu.png)  |     | Vanuatu       | Ania        |
+| ![Uzbekistan](https://github.com/avreference/terrabandiere/blob/main/ania/uzbekistan.png)  | UZB | Uzbekistan       | Ania        |
+| ![Vanuatu](https://github.com/avreference/terrabandiere/blob/main/ania/vanuatu.png)  | VUT | Vanuatu       | Ania        |
 | ![Vatican City](https://github.com/avreference/terrabandiere/blob/main/europe/vaticancity.png)  | VAT | Vatican City       | Europe        |
-| ![Venezuela](https://github.com/avreference/terrabandiere/blob/main/special/venezuela.png)  |     | Venezuela       | Special        |
+| ![Venezuela](https://github.com/avreference/terrabandiere/blob/main/special/venezuela.png)  | VEN | Venezuela       | Special        |
 | ![Vermont](https://github.com/avreference/terrabandiere/blob/main/usa/vermont.png)  |     | Vermont       | USA        |
-| ![Vietnam](https://github.com/avreference/terrabandiere/blob/main/ania/vietnam.png)  |     | Vietnam       | Ania        |
-| ![Virgin Islands](https://github.com/avreference/terrabandiere/blob/main/usa/virginislands.png)  |     | Virgin Islands       | USA        |
+| ![Vietnam](https://github.com/avreference/terrabandiere/blob/main/ania/vietnam.png)  | VNM | Vietnam       | Ania        |
+| ![Virgin Islands](https://github.com/avreference/terrabandiere/blob/main/usa/virginislands.png)  | VIR | Virgin Islands       | USA        |
 | ![Virginia](https://github.com/avreference/terrabandiere/blob/main/usa/virginia.png)  |     | Virginia       | USA        |
 | ![Washington](https://github.com/avreference/terrabandiere/blob/main/usa/washington.png)  |     | Washington       | USA        |
 | ![West Virginia](https://github.com/avreference/terrabandiere/blob/main/usa/westvirginia.png)  |     | West Virginia       | USA        |
 | ![Wisconsin](https://github.com/avreference/terrabandiere/blob/main/usa/wisconsin.png)  |     | Wisconsin       | USA        |
 | ![Wyoming](https://github.com/avreference/terrabandiere/blob/main/usa/wyoming.png)  |     | Wyoming       | USA        |
-| ![Yemen](https://github.com/avreference/terrabandiere/blob/main/ania/yemen.png)  |     | Yemen       | Ania        |
-| ![Zambia](https://github.com/avreference/terrabandiere/blob/main/africa/zambia.png)  |     | Zambia       | Africa        |
-| ![Zimbabwe](https://github.com/avreference/terrabandiere/blob/main/africa/zimbabwe.png)  |     | Zimbabwe       | Africa        |
+| ![Yemen](https://github.com/avreference/terrabandiere/blob/main/ania/yemen.png)  | YEM | Yemen       | Ania        |
+| ![Zambia](https://github.com/avreference/terrabandiere/blob/main/africa/zambia.png)  | ZMB | Zambia       | Africa        |
+| ![Zimbabwe](https://github.com/avreference/terrabandiere/blob/main/africa/zimbabwe.png)  | ZWE | Zimbabwe       | Africa        |
