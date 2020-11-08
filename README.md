@@ -4,8 +4,8 @@
 Last update 07.11.2020
 
 
-| Icon          | Name          | Folder        |
-| :-: | ------------- | ------------- |
+| Icon          | Iso          | Name          | Folder        |
+| :-: | ------------- | ------------- | ------------- |
 | ![Afghanistan](https://github.com/avreference/terrabandiere/blob/main/ania/afghanistan.png)  | Afghanistan       | Ania        |
 | ![Agender](https://github.com/avreference/terrabandiere/blob/main/special/agender.png)  | Agender       | Special        |
 | ![Alabama](https://github.com/avreference/terrabandiere/blob/main/usa/alabama.png)  | Alabama       | USA        |
