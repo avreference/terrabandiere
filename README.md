@@ -6,24 +6,24 @@ Last update 07.11.2020
 
 | Icon          | Iso          | Name          | Folder        |
 | :-: | ------------- | ------------- | ------------- |
-| ![Afghanistan](https://github.com/avreference/terrabandiere/blob/main/ania/afghanistan.png)  | Afghanistan       | Ania        |
-| ![Agender](https://github.com/avreference/terrabandiere/blob/main/special/agender.png)  | Agender       | Special        |
-| ![Alabama](https://github.com/avreference/terrabandiere/blob/main/usa/alabama.png)  | Alabama       | USA        |
-| ![Alaska](https://github.com/avreference/terrabandiere/blob/main/usa/alaska.png)  | Alaska       | USA        |
-| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | Albania       | Europe        |
-| ![Algeria](https://github.com/avreference/terrabandiere/blob/main/africa/algeria.png)  | Algeria       | Africa        |
-| ![Andorra](https://github.com/avreference/terrabandiere/blob/main/europe/andorra.png)  | Andorra       | Europe        |
-| ![Angola](https://github.com/avreference/terrabandiere/blob/main/africa/angola.png)  | Angola       | Africa        |
-| ![Antigua Barbuda](https://github.com/avreference/terrabandiere/blob/main/special/antiguabarbuda.png)  | Antigua and Barbuda       | Special        |
-| ![Argentina](https://github.com/avreference/terrabandiere/blob/main/special/argentina.png)  | Argentina       | Special        |
-| ![Arizona](https://github.com/avreference/terrabandiere/blob/main/usa/arizona.png)  | Arizona       | USA        |
-| ![Arkansas](https://github.com/avreference/terrabandiere/blob/main/usa/arkansas.png)  | Arkansas       | USA        |
-| ![Armenia](https://github.com/avreference/terrabandiere/blob/main/europe/armenia.png)  | Armenia       | Europe        |
-| ![Aromantic](https://github.com/avreference/terrabandiere/blob/main/special/aromantic.png)  | Aromantic       | Special        |
-| ![Asexuality](https://github.com/avreference/terrabandiere/blob/main/special/asexuality.png)  | Asexuality       | Special        |
-| ![Australia](https://github.com/avreference/terrabandiere/blob/main/ania/australia.png)  | Australia       | Ania        |
-| ![Austria](https://github.com/avreference/terrabandiere/blob/main/europe/austria.png)  | Austria       | Europe        |
-| ![Azerbaijan](https://github.com/avreference/terrabandiere/blob/main/europe/azerbaijan.png)  | Azerbaijan       | Europe        |
+| ![Afghanistan](https://github.com/avreference/terrabandiere/blob/main/ania/afghanistan.png)  |     | Afghanistan       | Ania        |
+| ![Agender](https://github.com/avreference/terrabandiere/blob/main/special/agender.png)  |     | Agender       | Special        |
+| ![Alabama](https://github.com/avreference/terrabandiere/blob/main/usa/alabama.png)  |     | Alabama       | USA        |
+| ![Alaska](https://github.com/avreference/terrabandiere/blob/main/usa/alaska.png)  |     | Alaska       | USA        |
+| ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  |     | Albania       | Europe        |
+| ![Algeria](https://github.com/avreference/terrabandiere/blob/main/africa/algeria.png)  |     | Algeria       | Africa        |
+| ![Andorra](https://github.com/avreference/terrabandiere/blob/main/europe/andorra.png)  |     | Andorra       | Europe        |
+| ![Angola](https://github.com/avreference/terrabandiere/blob/main/africa/angola.png)  |     | Angola       | Africa        |
+| ![Antigua Barbuda](https://github.com/avreference/terrabandiere/blob/main/special/antiguabarbuda.png)  |     | Antigua and Barbuda       | Special        |
+| ![Argentina](https://github.com/avreference/terrabandiere/blob/main/special/argentina.png)  |     | Argentina       | Special        |
+| ![Arizona](https://github.com/avreference/terrabandiere/blob/main/usa/arizona.png)  |     | Arizona       | USA        |
+| ![Arkansas](https://github.com/avreference/terrabandiere/blob/main/usa/arkansas.png)  |     | Arkansas       | USA        |
+| ![Armenia](https://github.com/avreference/terrabandiere/blob/main/europe/armenia.png)  |     | Armenia       | Europe        |
+| ![Aromantic](https://github.com/avreference/terrabandiere/blob/main/special/aromantic.png)  |     | Aromantic       | Special        |
+| ![Asexuality](https://github.com/avreference/terrabandiere/blob/main/special/asexuality.png)  |     | Asexuality       | Special        |
+| ![Australia](https://github.com/avreference/terrabandiere/blob/main/ania/australia.png)  |     | Australia       | Ania        |
+| ![Austria](https://github.com/avreference/terrabandiere/blob/main/europe/austria.png)  |     | Austria       | Europe        |
+| ![Azerbaijan](https://github.com/avreference/terrabandiere/blob/main/europe/azerbaijan.png)  |     | Azerbaijan       | Europe        |
 | ![Bahamas](https://github.com/avreference/terrabandiere/blob/main/special/bahamas.png)  | Bahamas       | Special        |
 | ![Bahrain](https://github.com/avreference/terrabandiere/blob/main/ania/bahrain.png)  | Bahrain       | Ania        |
 | ![Bangladesh](https://github.com/avreference/terrabandiere/blob/main/ania/bangladesh.png)  | Bangladesh       | Ania        |
