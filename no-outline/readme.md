@@ -61,7 +61,7 @@ Last update 17.11.2020 | Total flags: 196
 | ![Czech Republic](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/czechrepublic.png)  | CZE | Czech Republic       | Europe        |
 | ![Delaware](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/delaware.png)  |     | Delaware       | USA        |
 | ![Demisexuality](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/demisexuality.png)  |     | Demisexuality       | Special        |
-| ![Democratic Republic of the Congo](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/democraticrepublicofthecongo.png)  | COD | Democratic Republic of the Congo       | Africa        |
+| ![Democratic Republic of the Congo](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/democraticrepubliccongo.png)  | COD | Democratic Republic of the Congo       | Africa        |
 | ![Denmark](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/denmark.png)  | DNK | Denmark       | Europe        |
 | ![Djibouti](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/djibouti.png)  | DJI | Djibouti       | Africa        |
 | ![Dominica](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/dominica.png)  | DMA | Dominica       | Special        |
