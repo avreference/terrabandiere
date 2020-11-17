@@ -180,7 +180,7 @@ Last update 17.11.2020 | Total flags: 196
 | ![North Corea](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/northcorea.png)  | PRK | North Corea       | Ania        |
 | ![North Dakota](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/northdakota.png)  |     | North Dakota       | USA        |
 | ![North Macedonia](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/northmacedonia.png)  | MKD | North Macedonia       | Europe        |
-| ![Northen Mariana Islands](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/northenmarianaislands.png)  | MNP | Northen Mariana Islands       | USA        |
+| ![Northen Mariana Islands](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/northenmarianaisland.png)  | MNP | Northen Mariana Islands       | USA        |
 | ![Norway](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/norway.png)  | NOR | Norway       | Europe        |
 | ![Ohio](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/ohio.png)  |     | Ohio       | USA        |
 | ![Oklahoma](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/oklahoma.png)  |     | Oklahoma       | USA        |
