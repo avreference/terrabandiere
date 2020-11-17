@@ -213,7 +213,7 @@ Last update 17.11.2020 | Total flags: 196
 | ![Samoa](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/samoa.png)  | WSM | Samoa       | Ania        |
 | ![Samoa](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/samoa.png)  | ASM | Samoa       | USA        |
 | ![San Marino](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/sanmarino.png)  | SMR | San Marino       | Europe        |
-| ![Sao Tome and Principe](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/saotomeandprincipe.png)  | STP | Sao Tome and Principe      | Africa        |
+| ![Sao Tome and Principe](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/saotomeprincipe.png)  | STP | Sao Tome and Principe      | Africa        |
 | ![Sardinia](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/sardinia.png)  |     | Sardinia       | Special        |
 | ![Saudi Arabia](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/saudiarabia.png)  | SAU | Saudi Arabia       | Ania        |
 | ![Senegal](https://github.com/avreference/terrabandiere/blob/main/no-outline/png/senegal.png)  | SEN | Senegal       | Africa        |
