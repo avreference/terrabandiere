@@ -231,6 +231,7 @@ Last update 10.11.2020
 | ![Pennsylvania](https://github.com/avreference/terrabandiere/blob/main/usa/pennsylvania.png)  |     | Pennsylvania       | USA        |
 | ![Peru](https://github.com/avreference/terrabandiere/blob/main/special/peru.png)  | PER | Peru       | Special        |
 | ![Philippines](https://github.com/avreference/terrabandiere/blob/main/ania/philippines.png)  | PHL | Philippines       | Ania        |
+| ![Pitcairn](https://github.com/avreference/terrabandiere/blob/main/arch/pitcairn.png)  |     | Pitcairn       | Arch        |
 | ![Poland](https://github.com/avreference/terrabandiere/blob/main/europe/poland.png)  | POL | Poland       | Europe        |
 | ![Polysexuality](https://github.com/avreference/terrabandiere/blob/main/special/polysexuality.png)  |     | Polysexuality       | Special        |
 | ![Portugal](https://github.com/avreference/terrabandiere/blob/main/europe/portugal.png)  | PRT | Portugal       | Europe        |
@@ -238,10 +239,14 @@ Last update 10.11.2020
 | ![Qatar](https://github.com/avreference/terrabandiere/blob/main/ania/qatar.png)  | QAT | Qatar       | Ania        |
 | ![Rainbow](https://github.com/avreference/terrabandiere/blob/main/special/rainbow.png)  |     | Rainbow       | Special        |
 | ![Republic of the Congo](https://github.com/avreference/terrabandiere/blob/main/africa/republicofthecongo.png)  | COG | Republic of the Congo       | Africa        |
+| ![Reunion](https://github.com/avreference/terrabandiere/blob/main/arch/reunion_unofficial.png)  |     | Reunion (unofficial)       | Arch        |
 | ![Rhode Island](https://github.com/avreference/terrabandiere/blob/main/usa/rhodeisland.png)  |     | Rhode Island       | USA        |
 | ![Romania](https://github.com/avreference/terrabandiere/blob/main/europe/romania.png)  | ROU | Romania       | Europe        |
 | ![Russia](https://github.com/avreference/terrabandiere/blob/main/europe/russia.png)  | RUS | Russia       | Europe        |
 | ![Rwanda](https://github.com/avreference/terrabandiere/blob/main/africa/rwanda.png)  | RWA | Rwanda       | Africa        |
+| ![Saint Helena](https://github.com/avreference/terrabandiere/blob/main/arch/saint_helena.png)  |     | Saint Helena       | Arch        |
+| ![Saint Kitts and Nevis](https://github.com/avreference/terrabandiere/blob/main/arch/saint_kitts_nevis.png)  |     | Saint Kitts and Nevis       | Arch        |
+| ![Saint Lucia](https://github.com/avreference/terrabandiere/blob/main/arch/saint_lucia.png)  |     | Saint Lucia       | Arch        |
 | ![Saint Vincent](https://github.com/avreference/terrabandiere/blob/main/special/saintvincent.png)  | VCT | Saint Vincent       | Special        |
 | ![Samoa](https://github.com/avreference/terrabandiere/blob/main/ania/samoa.png)  | WSM | Samoa       | Ania        |
 | ![Samoa](https://github.com/avreference/terrabandiere/blob/main/usa/samoa.png)  | ASM | Samoa       | USA        |
@@ -254,6 +259,7 @@ Last update 10.11.2020
 | ![Seychelles](https://github.com/avreference/terrabandiere/blob/main/africa/seychelles.png)  | SYC | Seychelles       | Africa        |
 | ![Sierra Leone](https://github.com/avreference/terrabandiere/blob/main/africa/sierraleone.png)  | SLE | Sierra Leone       | Africa        |
 | ![Singapore](https://github.com/avreference/terrabandiere/blob/main/ania/singapore.png)  | SGP | Singapore       | Ania        |
+| ![Sint Maarten](https://github.com/avreference/terrabandiere/blob/main/arch/sint_maarten.png)  |     | Sint Maarten       | Arch        |
 | ![Slovakia](https://github.com/avreference/terrabandiere/blob/main/europe/slovakia.png)  | SVK | Slovakia       | Europe        |
 | ![Slovenia](https://github.com/avreference/terrabandiere/blob/main/europe/slovenia.png)  | SVN | Slovenia       | Europe        |
 | ![Solomon](https://github.com/avreference/terrabandiere/blob/main/ania/solomon.png)  | SLB | Solomon       | Ania        |
@@ -262,6 +268,7 @@ Last update 10.11.2020
 | ![South Carolina](https://github.com/avreference/terrabandiere/blob/main/usa/southcarolina.png)  |     | South Carolina       | USA        |
 | ![South Corea](https://github.com/avreference/terrabandiere/blob/main/ania/southcorea.png)  | KOR | South Corea       | Ania        |
 | ![South Dakota](https://github.com/avreference/terrabandiere/blob/main/usa/southdakota.png)  |     | South Dakota       | USA        |
+| ![South Georgia](https://github.com/avreference/terrabandiere/blob/main/arch/south_georgia.png)  |     | South Georgia       | Arch        |
 | ![South Sudan](https://github.com/avreference/terrabandiere/blob/main/africa/southsudan.png)  | SSD | South Sudan       | Africa        |
 | ![Spain](https://github.com/avreference/terrabandiere/blob/main/europe/spain.png)  | ESP | Spain       | Europe        |
 | ![Srilanka](https://github.com/avreference/terrabandiere/blob/main/ania/srilanka.png)  | LKA | Srilanka       | Ania        |
@@ -282,6 +289,7 @@ Last update 10.11.2020
 | ![Tunisia](https://github.com/avreference/terrabandiere/blob/main/africa/tunisia.png)  | TUN | Tunisia       | Africa        |
 | ![Turkey](https://github.com/avreference/terrabandiere/blob/main/europe/turkey.png)  | TUR | Turkey       | Europe        |
 | ![Turkmenistan](https://github.com/avreference/terrabandiere/blob/main/ania/turkmenistan.png)  | TKM | Turkmenistan       | Ania        |
+| ![Turks and Caicos](https://github.com/avreference/terrabandiere/blob/main/arch/turks_caicos.png)  |     | Turks and Caicos       | Arch        |
 | ![Tuvalu](https://github.com/avreference/terrabandiere/blob/main/ania/tuvalu.png)  | TUV | Tuvalu       | Ania        |
 | ![Ukraine](https://github.com/avreference/terrabandiere/blob/main/europe/ukraine.png)  | UKR | Ukraine       | Europe        |
 | ![Uganda](https://github.com/avreference/terrabandiere/blob/main/africa/uganda.png)  | UGA | Uganda       | Africa        |
