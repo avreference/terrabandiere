@@ -16,12 +16,15 @@ Last update 10.11.2020
 | ![Andorra](https://github.com/avreference/terrabandiere/blob/main/europe/andorra.png)  | AND | Andorra       | Europe        |
 | ![Angola](https://github.com/avreference/terrabandiere/blob/main/africa/angola.png)  | AGO | Angola       | Africa        |
 | ![Anguilla](https://github.com/avreference/terrabandiere/blob/main/arch/anguilla.png)  |     | Anguilla       | Arch        |
+| ![Antarctica](https://github.com/avreference/terrabandiere/blob/main/arch/antarctica_unofficial.png)  |     | Antarctica       | Arch        |
 | ![Antigua Barbuda](https://github.com/avreference/terrabandiere/blob/main/special/antiguabarbuda.png)  | ATG | Antigua and Barbuda       | Special        |
 | ![Argentina](https://github.com/avreference/terrabandiere/blob/main/special/argentina.png)  | ARG | Argentina       | Special        |
 | ![Arizona](https://github.com/avreference/terrabandiere/blob/main/usa/arizona.png)  |     | Arizona       | USA        |
 | ![Arkansas](https://github.com/avreference/terrabandiere/blob/main/usa/arkansas.png)  |     | Arkansas       | USA        |
 | ![Armenia](https://github.com/avreference/terrabandiere/blob/main/europe/armenia.png)  | ARM | Armenia       | Europe        |
 | ![Aromantic](https://github.com/avreference/terrabandiere/blob/main/special/aromantic.png)  |     | Aromantic       | Special        |
+| ![Aruba](https://github.com/avreference/terrabandiere/blob/main/arch/aruba.png)  |     | Aruba       | Arch        |
+| ![Ascension](https://github.com/avreference/terrabandiere/blob/main/arch/ascension.png)  |     | Ascension       | Arch        |
 | ![Asexuality](https://github.com/avreference/terrabandiere/blob/main/special/asexuality.png)  |     | Asexuality       | Special        |
 | ![Australia](https://github.com/avreference/terrabandiere/blob/main/ania/australia.png)  | AUS | Australia       | Ania        |
 | ![Austria](https://github.com/avreference/terrabandiere/blob/main/europe/austria.png)  | AUT | Austria       | Europe        |
@@ -35,12 +38,16 @@ Last update 10.11.2020
 | ![Belgium](https://github.com/avreference/terrabandiere/blob/main/europe/belgium.png)  | BEL | Belgium       | Europe        |
 | ![Belize](https://github.com/avreference/terrabandiere/blob/main/special/belize.png)  | BLZ | Belize       | Special        |
 | ![Benin](https://github.com/avreference/terrabandiere/blob/main/africa/benin.png)  | BEN | Benin       | Africa        |
+| ![Bermuda](https://github.com/avreference/terrabandiere/blob/main/arch/bermuda.png)  |     | Bermuda       | Arch        |
 | ![Bhutan](https://github.com/avreference/terrabandiere/blob/main/ania/bhutan.png)  | BTN | Bhutan       | Ania        |
 | ![Bisexuality](https://github.com/avreference/terrabandiere/blob/main/special/bisexuality.png)  |     | Bisexuality       | Special        |
 | ![Bolivia](https://github.com/avreference/terrabandiere/blob/main/special/bolivia.png)  | BOL | Bolivia       | Special        |
+| ![Bonaire](https://github.com/avreference/terrabandiere/blob/main/arch/bonaire.png)  |     | Bonaire       | Arch        |
 | ![Bosnia Herzegovina](https://github.com/avreference/terrabandiere/blob/main/europe/bosniaherzegovina.png)  | BIH | Bosnia Herzegovina       | Europe        |
 | ![Botswana](https://github.com/avreference/terrabandiere/blob/main/africa/botswana.png)  | BWA | Botswana       | Africa        |
 | ![Brazil](https://github.com/avreference/terrabandiere/blob/main/special/brazil.png)  | BRA | Brazil       | Special        |
+| ![British Indian ocean territories](https://github.com/avreference/terrabandiere/blob/main/arch/british_indian_ocean_territories.png)  |     | British Indian ocean territories       | Arch        |
+| ![British Virgin islands](https://github.com/avreference/terrabandiere/blob/main/arch/british_virgin_island.png)  |     | British Virgin islands       | Arch        |
 | ![Brunei](https://github.com/avreference/terrabandiere/blob/main/ania/brunei.png)  | BRN | Brunei       | Ania        |
 | ![Bulgaria](https://github.com/avreference/terrabandiere/blob/main/europe/bulgaria.png)  | BGR | Bulgaria       | Europe        |
 | ![Burkina Faso](https://github.com/avreference/terrabandiere/blob/main/africa/burkinafaso.png)  | BFA | Burkina Faso       | Africa        |
@@ -50,6 +57,7 @@ Last update 10.11.2020
 | ![Cameroon](https://github.com/avreference/terrabandiere/blob/main/africa/cameroon.png)  | CMR | Cameroon       | Africa        |
 | ![Canada](https://github.com/avreference/terrabandiere/blob/main/special/canada.png)  | CAN | Canada       | Special        |
 | ![Cape Verde](https://github.com/avreference/terrabandiere/blob/main/africa/capeverde.png)  | CPV | Cape Verde       | Africa        |
+| ![Cayman islands](https://github.com/avreference/terrabandiere/blob/main/arch/cayman_island.png)  |     | Cayman islands       | Arch        |
 | ![Central African Republic](https://github.com/avreference/terrabandiere/blob/main/africa/centralafricanrepublic.png)  | CAF | Central African Republic       | Africa        |
 | ![Chad](https://github.com/avreference/terrabandiere/blob/main/africa/chad.png)  | TCD | Chad       | Africa        |
 | ![Chile](https://github.com/avreference/terrabandiere/blob/main/special/chile.png)  | CHL | Chile       | Special        |
