@@ -115,12 +115,14 @@ Last update 10.11.2020
 | ![Grenada](https://github.com/avreference/terrabandiere/blob/main/arch/grenada.png)  |     | Grenada       | Arch        |
 | ![Guam](https://github.com/avreference/terrabandiere/blob/main/usa/guam.png)  | GUM | Guam       | USA        |
 | ![Guatemala](https://github.com/avreference/terrabandiere/blob/main/special/guatemala.png)  | GTM | Guatemala       | Special        |
+| ![Guernsey](https://github.com/avreference/terrabandiere/blob/main/arch/guernsey.png)  |     | Guernsey       | Arch        |
 | ![Guinea](https://github.com/avreference/terrabandiere/blob/main/africa/guinea.png)  | GIN | Guinea       | Africa        |
 | ![Guinea Bissau](https://github.com/avreference/terrabandiere/blob/main/africa/guineabissau.png)  | GNB | Guinea Bissau       | Africa        |
 | ![Guyana](https://github.com/avreference/terrabandiere/blob/main/special/guyana.png)  | GUY | Guyana       | Special        |
 | ![Haiti](https://github.com/avreference/terrabandiere/blob/main/special/haiti.png)  | HTI | Haiti       | Special        |
 | ![Hawaii](https://github.com/avreference/terrabandiere/blob/main/usa/hawaii.png)  |     | Hawaii       | USA        |
 | ![Honduras](https://github.com/avreference/terrabandiere/blob/main/special/honduras.png)  | HND | Honduras       | Special        |
+| ![Hong Kong](https://github.com/avreference/terrabandiere/blob/main/arch/hong_kong.png)  |     | Hong Kong       | Arch        |
 | ![Hungary](https://github.com/avreference/terrabandiere/blob/main/europe/hungary.png)  | HUN | Hungary       | Europe        |
 | ![Iceland](https://github.com/avreference/terrabandiere/blob/main/europe/iceland.png)  | ISL | Iceland       | Europe        |
 | ![Idaho](https://github.com/avreference/terrabandiere/blob/main/usa/idaho.png)  |     | Idaho       | USA        |
@@ -133,11 +135,13 @@ Last update 10.11.2020
 | ![Iran](https://github.com/avreference/terrabandiere/blob/main/ania/iran.png)  | IRN | Iran       | Ania        |
 | ![Iraq](https://github.com/avreference/terrabandiere/blob/main/ania/iraq.png)  | IRQ | Iraq       | Ania        |
 | ![Ireland](https://github.com/avreference/terrabandiere/blob/main/europe/ireland.png)  | IRL | Ireland       | Europe        |
+| ![Isle of Man](https://github.com/avreference/terrabandiere/blob/main/arch/isle_man.png)  |     | Isle of Man       | Arch        |
 | ![Israel](https://github.com/avreference/terrabandiere/blob/main/ania/israel.png)  | ISR | Israel       | Ania        |
 | ![Italy](https://github.com/avreference/terrabandiere/blob/main/europe/italy.png)  | ITA | Italy       | Europe        |
 | ![Ivory Coast](https://github.com/avreference/terrabandiere/blob/main/africa/ivorycoast.png)  |     | Ivory Coast       | Africa        |
 | ![Jamaica](https://github.com/avreference/terrabandiere/blob/main/special/jamaica.png)  | JAM | Jamaica       | Special        |
 | ![Japan](https://github.com/avreference/terrabandiere/blob/main/ania/japan.png)  | JPN | Japan       | Ania        |
+| ![Jersey](https://github.com/avreference/terrabandiere/blob/main/arch/jersey.png)  |     | Jersey       | Arch        |
 | ![Jordan](https://github.com/avreference/terrabandiere/blob/main/ania/jordan.png)  | JOR | Jordan       | Ania        |
 | ![Kansas](https://github.com/avreference/terrabandiere/blob/main/usa/kansas.png)  |     | Kansas       | USA        |
 | ![Kazakhstan](https://github.com/avreference/terrabandiere/blob/main/europe/kazakhstan.png)  | KAZ | Kazakhstan       | Europe        |
@@ -158,6 +162,7 @@ Last update 10.11.2020
 | ![Lithuania](https://github.com/avreference/terrabandiere/blob/main/europe/lithuania.png)  | LTU | Lithuania       | Europe        |
 | ![Louisiana](https://github.com/avreference/terrabandiere/blob/main/usa/louisiana.png)  |     | Louisiana       | USA        |
 | ![Luxembourg](https://github.com/avreference/terrabandiere/blob/main/europe/luxembourg.png)  | LUX | Luxembourg       | Europe        |
+| ![Macau](https://github.com/avreference/terrabandiere/blob/main/arch/macau.png)  |     | Macau       | Arch        |
 | ![Madagascar](https://github.com/avreference/terrabandiere/blob/main/africa/madagascar.png)  | MDG | Madagascar       | Africa        |
 | ![Maine](https://github.com/avreference/terrabandiere/blob/main/usa/maine.png)  |     | Maine       | USA        |
 | ![Malawi](https://github.com/avreference/terrabandiere/blob/main/africa/malawi.png)  | MWI | Malawi       | Africa        |
@@ -170,6 +175,7 @@ Last update 10.11.2020
 | ![Massachusetts](https://github.com/avreference/terrabandiere/blob/main/usa/massachusetts.png)  |     | Massachusetts       | USA        |
 | ![Mauritania](https://github.com/avreference/terrabandiere/blob/main/africa/mauritania.png)  | MRT | Mauritania       | Africa        |
 | ![Mauritius](https://github.com/avreference/terrabandiere/blob/main/africa/mauritius.png)  | MUS | Mauritius       | Africa        |
+| ![Mayotte](https://github.com/avreference/terrabandiere/blob/main/arch/mayotte_coat_of_arms.png)  |     | Mayotte (coat of arms)       | Arch        |
 | ![Mexico](https://github.com/avreference/terrabandiere/blob/main/special/mexico.png)  | MEX | Mexico       | Special        |
 | ![Michigan](https://github.com/avreference/terrabandiere/blob/main/usa/michigan.png)  |     | Michigan       | USA        |
 | ![Micronesia](https://github.com/avreference/terrabandiere/blob/main/ania/micronesia.png)  | FSM | Micronesia       | Ania        |
@@ -179,6 +185,7 @@ Last update 10.11.2020
 | ![Moldova](https://github.com/avreference/terrabandiere/blob/main/europe/moldova.png)  | MDA | Moldova       | Europe        |
 | ![Monaco](https://github.com/avreference/terrabandiere/blob/main/europe/monaco.png)  | MCO | Monaco       | Europe        |
 | ![Mongolia](https://github.com/avreference/terrabandiere/blob/main/ania/mongolia.png)  | MNG | Mongolia       | Ania        |
+| ![Monserrat](https://github.com/avreference/terrabandiere/blob/main/arch/monserrat.png)  |     | Monserrat       | Arch        |
 | ![Montana](https://github.com/avreference/terrabandiere/blob/main/usa/montana.png)  |     | Montana       | USA        |
 | ![Montenegro](https://github.com/avreference/terrabandiere/blob/main/europe/montenegro.png)  | MNE | Montenegro       | Europe        |
 | ![Morocco](https://github.com/avreference/terrabandiere/blob/main/africa/morocco.png)  | MAR | Morocco       | Africa        |
@@ -190,6 +197,7 @@ Last update 10.11.2020
 | ![Nepal](https://github.com/avreference/terrabandiere/blob/main/ania/nepal.png)  | NPL | Nepal       | Ania        |
 | ![Netherlands](https://github.com/avreference/terrabandiere/blob/main/europe/netherlands.png)  | NLD | Netherlands       | Europe        |
 | ![Nevada](https://github.com/avreference/terrabandiere/blob/main/usa/nevada.png)  |     | Nevada       | USA        |
+| ![New Caledonia](https://github.com/avreference/terrabandiere/blob/main/arch/new_caledonia.png)  |     | New Caledonia      | Arch        |
 | ![New Hampshire](https://github.com/avreference/terrabandiere/blob/main/usa/newhampshire.png)  |     | New Hampshire       | USA        |
 | ![New Jersey](https://github.com/avreference/terrabandiere/blob/main/usa/newjersey.png)  |     | New Jersey       | USA        |
 | ![New Mexico](https://github.com/avreference/terrabandiere/blob/main/usa/newmexico.png)  |     | New Mexico       | USA        |
@@ -198,7 +206,9 @@ Last update 10.11.2020
 | ![Nicaragua](https://github.com/avreference/terrabandiere/blob/main/special/nicaragua.png)  | NIC | Nicaragua       | Special        |
 | ![Niger](https://github.com/avreference/terrabandiere/blob/main/africa/niger.png)  | NER | Niger       | Africa        |
 | ![Nigeria](https://github.com/avreference/terrabandiere/blob/main/africa/nigeria.png)  | NGA | Nigeria       | Africa        |
+| ![Niue](https://github.com/avreference/terrabandiere/blob/main/arch/niue.png)  |     | Niue       | Arch        |
 | ![Non-binary](https://github.com/avreference/terrabandiere/blob/main/special/non-binary.png)  |     | Non-binary       | Special        |
+| ![Norfolk](https://github.com/avreference/terrabandiere/blob/main/arch/norfolk.png)  |     | Norfolk       | Arch        |
 | ![North Carolina](https://github.com/avreference/terrabandiere/blob/main/usa/northcarolina.png)  |     | North Carolina       | USA        |
 | ![North Corea](https://github.com/avreference/terrabandiere/blob/main/ania/northcorea.png)  | PRK | North Corea       | Ania        |
 | ![North Dakota](https://github.com/avreference/terrabandiere/blob/main/usa/northdakota.png)  |     | North Dakota       | USA        |
