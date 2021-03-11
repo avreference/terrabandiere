@@ -9,11 +9,13 @@ Last update 10.11.2020
 | ![Afghanistan](https://github.com/avreference/terrabandiere/blob/main/ania/afghanistan.png)  | AFG | Afghanistan       | Ania        |
 | ![Agender](https://github.com/avreference/terrabandiere/blob/main/special/agender.png)  |     | Agender       | Special        |
 | ![Alabama](https://github.com/avreference/terrabandiere/blob/main/usa/alabama.png)  |     | Alabama       | USA        |
+| ![Aland](https://github.com/avreference/terrabandiere/blob/main/arch/aland.png)  |     | Aland       | Arch        |
 | ![Alaska](https://github.com/avreference/terrabandiere/blob/main/usa/alaska.png)  |     | Alaska       | USA        |
 | ![Albania](https://github.com/avreference/terrabandiere/blob/main/europe/albania.png)  | ALB | Albania       | Europe        |
 | ![Algeria](https://github.com/avreference/terrabandiere/blob/main/africa/algeria.png)  | DZA | Algeria       | Africa        |
 | ![Andorra](https://github.com/avreference/terrabandiere/blob/main/europe/andorra.png)  | AND | Andorra       | Europe        |
 | ![Angola](https://github.com/avreference/terrabandiere/blob/main/africa/angola.png)  | AGO | Angola       | Africa        |
+| ![Anguilla](https://github.com/avreference/terrabandiere/blob/main/arch/anguilla.png)  |     | Anguilla       | Arch        |
 | ![Antigua Barbuda](https://github.com/avreference/terrabandiere/blob/main/special/antiguabarbuda.png)  | ATG | Antigua and Barbuda       | Special        |
 | ![Argentina](https://github.com/avreference/terrabandiere/blob/main/special/argentina.png)  | ARG | Argentina       | Special        |
 | ![Arizona](https://github.com/avreference/terrabandiere/blob/main/usa/arizona.png)  |     | Arizona       | USA        |
