@@ -62,14 +62,18 @@ Last update 10.11.2020
 | ![Chad](https://github.com/avreference/terrabandiere/blob/main/africa/chad.png)  | TCD | Chad       | Africa        |
 | ![Chile](https://github.com/avreference/terrabandiere/blob/main/special/chile.png)  | CHL | Chile       | Special        |
 | ![China](https://github.com/avreference/terrabandiere/blob/main/ania/china.png)  | CHN | China       | Ania        |
+| ![Christmas island](https://github.com/avreference/terrabandiere/blob/main/arch/christmas_island.png)  |     | Christmas island       | Arch        |
+| ![Cocos Keeling](https://github.com/avreference/terrabandiere/blob/main/arch/cocos_keeling.png)  |     | Cocos Keeling       | Arch        |
 | ![Colombia](https://github.com/avreference/terrabandiere/blob/main/special/colombia.png)  | COL | Colombia       | Special        |
 | ![Colorado](https://github.com/avreference/terrabandiere/blob/main/usa/colorado.png)  |     | Colorado       | USA        |
 | ![Columbia](https://github.com/avreference/terrabandiere/blob/main/usa/columbia.png)  |     | Columbia       | USA        |
 | ![Comoros](https://github.com/avreference/terrabandiere/blob/main/africa/comoros.png)  | COM | Comoros       | Africa        |
 | ![Connecticut](https://github.com/avreference/terrabandiere/blob/main/usa/connecticut.png)  |     | Connecticut       | USA        |
+| ![Cook islands](https://github.com/avreference/terrabandiere/blob/main/arch/cook_island.png)  |     | Cook islands       | Arch        |
 | ![Costa Rica](https://github.com/avreference/terrabandiere/blob/main/special/costarica.png)  | CRI | Costa Rica       | Special        |
 | ![Croatia](https://github.com/avreference/terrabandiere/blob/main/europe/croatia.png)  | HRV | Croatia       | Europe        |
 | ![Cuba](https://github.com/avreference/terrabandiere/blob/main/special/cuba.png)  | CUB | Cuba       | Special        |
+| ![Curacao](https://github.com/avreference/terrabandiere/blob/main/arch/curacao.png)  |     | Curacao       | Arch        |
 | ![Cyprus](https://github.com/avreference/terrabandiere/blob/main/europe/cyprus.png)  | CYP | Cyprus       | Europe        |
 | ![Czech Republic](https://github.com/avreference/terrabandiere/blob/main/europe/czechrepublic.png)  | CZE | Czech Republic       | Europe        |
 | ![Delaware](https://github.com/avreference/terrabandiere/blob/main/usa/delaware.png)  |     | Delaware       | USA        |
@@ -89,10 +93,14 @@ Last update 10.11.2020
 | ![Eswatini](https://github.com/avreference/terrabandiere/blob/main/africa/eswatini.png)  | SWZ | Eswatini       | Africa        |
 | ![Ethiopia](https://github.com/avreference/terrabandiere/blob/main/africa/ethiopia.png)  | ETH | Ethiopia       | Africa        |
 | ![Europe](https://github.com/avreference/terrabandiere/blob/main/special/europe.png)  |     | Europe       | Special        |
+| ![Falkland](https://github.com/avreference/terrabandiere/blob/main/arch/falkland.png)  |     | Falkland       | Arch        |
+| ![Faroe](https://github.com/avreference/terrabandiere/blob/main/arch/faroe.png)  |     | Faroe       | Arch        |
 | ![Fiji](https://github.com/avreference/terrabandiere/blob/main/ania/fiji.png)  | FJI | Fiji        | Ania        |
 | ![Finland](https://github.com/avreference/terrabandiere/blob/main/europe/finland.png)  | FIN | Finland       | Europe        |
 | ![Florida](https://github.com/avreference/terrabandiere/blob/main/usa/florida.png)  |     | Florida       | USA        |
 | ![France](https://github.com/avreference/terrabandiere/blob/main/europe/france.png)  | FRA | France       | Europe        |
+| ![French Polynesia](https://github.com/avreference/terrabandiere/blob/main/arch/french_polynesia.png)  |     | French Polynesia       | Arch        |
+| ![French southern territories](https://github.com/avreference/terrabandiere/blob/main/arch/french_southern_territory.png)  |     | French southern territories       | Arch        |
 | ![Gabon](https://github.com/avreference/terrabandiere/blob/main/africa/gabon.png)  | GAB | Gabon       | Africa        |
 | ![Gambia](https://github.com/avreference/terrabandiere/blob/main/africa/gambia.png)  | GMB | Gambia       | Africa        |
 | ![Genderfluid](https://github.com/avreference/terrabandiere/blob/main/special/genderfluid.png)  |     | Genderfluid       | Special        |
@@ -101,8 +109,10 @@ Last update 10.11.2020
 | ![Georgia](https://github.com/avreference/terrabandiere/blob/main/usa/georgia.png)  |     | Georgia       | USA        |
 | ![Germany](https://github.com/avreference/terrabandiere/blob/main/europe/germany.png)  | DEU | Germany       | Europe        |
 | ![Ghana](https://github.com/avreference/terrabandiere/blob/main/africa/ghana.png)  | GHA | Ghana       | Africa        |
+| ![Gibraltar](https://github.com/avreference/terrabandiere/blob/main/arch/gibraltar.png)  |     | Gibraltar       | Arch        |
 | ![Greece](https://github.com/avreference/terrabandiere/blob/main/europe/greece.png)  | GRC | Greece       | Europe        |
 | ![Greenland](https://github.com/avreference/terrabandiere/blob/main/special/greenland.png)  | GRL | Greenland       | Special        |
+| ![Grenada](https://github.com/avreference/terrabandiere/blob/main/arch/grenada.png)  |     | Grenada       | Arch        |
 | ![Guam](https://github.com/avreference/terrabandiere/blob/main/usa/guam.png)  | GUM | Guam       | USA        |
 | ![Guatemala](https://github.com/avreference/terrabandiere/blob/main/special/guatemala.png)  | GTM | Guatemala       | Special        |
 | ![Guinea](https://github.com/avreference/terrabandiere/blob/main/africa/guinea.png)  | GIN | Guinea       | Africa        |
