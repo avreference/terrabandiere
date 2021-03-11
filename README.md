@@ -46,7 +46,7 @@ Last update 10.11.2020
 | ![Bosnia Herzegovina](https://github.com/avreference/terrabandiere/blob/main/europe/bosniaherzegovina.png)  | BIH | Bosnia Herzegovina       | Europe        |
 | ![Botswana](https://github.com/avreference/terrabandiere/blob/main/africa/botswana.png)  | BWA | Botswana       | Africa        |
 | ![Brazil](https://github.com/avreference/terrabandiere/blob/main/special/brazil.png)  | BRA | Brazil       | Special        |
-| ![British Indian ocean territories](https://github.com/avreference/terrabandiere/blob/main/arch/british_indian_ocean_territories.png)  |     | British Indian ocean territories       | Arch        |
+| ![British Indian ocean territories](https://github.com/avreference/terrabandiere/blob/main/arch/british_indian_ocean_territory.png)  |     | British Indian ocean territories       | Arch        |
 | ![British Virgin islands](https://github.com/avreference/terrabandiere/blob/main/arch/british_virgin_island.png)  |     | British Virgin islands       | Arch        |
 | ![Brunei](https://github.com/avreference/terrabandiere/blob/main/ania/brunei.png)  | BRN | Brunei       | Ania        |
 | ![Bulgaria](https://github.com/avreference/terrabandiere/blob/main/europe/bulgaria.png)  | BGR | Bulgaria       | Europe        |
