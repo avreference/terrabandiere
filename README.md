@@ -1,7 +1,7 @@
 # Terrabandiere
 ## A libre collection of pixel-art flags.
 
-Last update 10.11.2020
+Last update 11.03.2021
 
 
 | Icon          | Iso          | Name          | Folder        |
